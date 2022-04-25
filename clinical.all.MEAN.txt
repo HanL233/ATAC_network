@@ -1,0 +1,410 @@
+Patient	Sample	Study	age_at_initial_pathologic_diagnosis	country	days_to_birth	days_to_death	days_to_last_followup	gender	new_tumor_event_after_initial_treatment	number_of_lymphnodes_examined	pathologic_M	pathologic_N	pathologic_T	pathologic_stage	person_neoplasm_cancer_status	primary_therapy_outcome_success	residual_tumor	tobacco_smoking_history	tumor_tissue_site	vital_status	weiss_venous_invasion	OS	OS.time	DSS	DSS.time	DFI	DFI.time	PFI	PFI.time
+ACCx_025FE5F8_885E_433D_9018_7AE322A92285_X034_S09	TCGA-OR-A5K8	acc	39	united states	-14435	NA	749	male	no	NA	NA	n0	t2	stage ii	tumor free	complete remission/response	r0	NA	adrenal	alive	venous invasion absent	0	749	0	749	0	749	0	749
+ACCx_2A5AE757_20D5_49B6_95FF_CAE08E8197A0_X012_S05	TCGA-PK-A5H8	acc	42	canada	-15373	NA	3623	male	no	NA	NA	n0	t2	stage ii	tumor free	NA	r0	NA	adrenal	alive	venous invasion present	0	3623	0	3623	0	3623	0	3623
+ACCx_3D0CD3BD_3960_46FB_92C3_777F11CCD0FC_X011_S06	TCGA-OR-A5J3	acc	23	brazil	-8624	NA	2091	female	yes	4	NA	n0	t3	stage iii	with tumor	complete remission/response	r0	NA	adrenal	alive	venous invasion present	0	2091	0	2091	1	53	1	53
+ACCx_4D0D43F5_D8F0_4735_92D5_F40E321C7A05_X010_S09	TCGA-OR-A5J6	acc	29	brazil	-10839	NA	2703	female	no	NA	NA	n0	t2	stage ii	tumor free	complete remission/response	r0	NA	adrenal	alive	venous invasion absent	0	2703	0	2703	0	2703	0	2703
+ACCx_81A262BD_3078_4BDB_8EB1_30DD6D7948C3_X027_S03	TCGA-OR-A5KX	acc	25	germany	-9298	NA	1364	female	yes	NA	NA	n1	t2	stage iii	with tumor	progressive disease	r0	NA	adrenal	alive	venous invasion present	0	1364	0	1364	NA	NA	1	62
+ACCx_B6E6F014_A599_4A58_A7A5_1F748471D662_X013_S12	TCGA-OR-A5J2	acc	44	brazil	-16090	1677	NA	female	yes	1	NA	n0	t3	stage iv	with tumor	progressive disease	r2	NA	adrenal	deceased	venous invasion present	1	1677	1	1677	NA	NA	1	289
+ACCx_B901534B_5E93_475A_91E7_B2DB7DFE98A5_X020_S02	TCGA-OR-A5J9	acc	22	brazil	-8175	NA	1352	female	yes	NA	NA	n0	t2	stage ii	with tumor	complete remission/response	r0	NA	adrenal	alive	venous invasion absent	0	1352	0	1352	1	414	1	414
+ACCx_EDEB779F_A603_479D_AAFE_428BC7E4B8DB_X038_S03	TCGA-OR-A5JZ	acc	60	united states	-22218	NA	822	male	no	NA	NA	n0	t2	stage ii	tumor free	NA	r0	NA	adrenal	alive	venous invasion absent	0	822	0	822	NA	NA	1	247
+ACCx_FCE328BC_082C_4FC1_9F7E_500D07C78B9E_X035_S02	TCGA-PA-A5YG	acc	51	united states	-18926	NA	756	male	no	NA	NA	n0	t2	stage ii	tumor free	complete remission/response	r0	NA	adrenal	alive	NA	0	756	0	756	0	756	0	756
+BLCA_1067A79F_15D6_4D64_BBC3_268BE15434A1_X019_S01	TCGA-CU-A3YL	blca	67	united states	-24524	NA	906	male	no	7	m0	n0	t4a	stage iii	tumor free	complete remission/response	NA	5	bladder	alive	NA	0	906	0	906	1	370	1	370
+BLCA_3E71B261_9C29_4025_973A_3901B0826643_X009_S04	TCGA-GD-A3OQ	blca	48	united states	-17682	NA	95	male	no	15	mx	n1	t4a	stage iv	NA	NA	NA	2	bladder	alive	NA	0	95	0	95	NA	NA	0	95
+BLCA_6728BCB4_B161_41DD_BF27_16000A1A9A94_X018_S09	TCGA-CF-A3MI	blca	62	vietnam	-22716	NA	370	male	NA	NA	m0	n0	t2	stage ii	NA	NA	NA	2	bladder	alive	NA	0	370	0	370	0	370	0	370
+BLCA_6E1FF9EA_8875_439E_AF5A_A7B7DDFB247C_X022_S12	TCGA-BL-A13J	blca	65	united states	-23927	81	NA	male	NA	11	m0	n2	t4	stage iv	with tumor	NA	NA	2	bladder	deceased	NA	1	81	1	81	NA	NA	1	81
+BLCA_6F874813_E05A_438A_A1CE_71B8A78C173E_X006_S09	TCGA-GV-A3JW	blca	74	united states	-27091	NA	649	male	NA	NA	mx	nx	t2	stage ii	tumor free	NA	NA	3	bladder	alive	NA	0	649	0	649	NA	NA	1	271
+BLCA_761A45CF_D6D2_46EA_93EC_5238A95517B8_X013_S06	TCGA-DK-A1AD	blca	69	united states	-25317	NA	3420	male	NA	14	m0	n2	t3b	stage iv	tumor free	NA	NA	NA	bladder	alive	NA	0	3420	0	3420	NA	NA	0	3420
+BLCA_795D3511_E7DB_456E_9D80_4EE5B50B66E1_X021_S08	TCGA-FD-A3SR	blca	68	united states	-24979	602	NA	male	yes	16	mx	n2	t4a	stage iv	with tumor	NA	NA	4	bladder	deceased	NA	1	602	1	602	NA	NA	1	372
+BLCA_C1820F13_D6CF_4BCF_A842_A01D6E6C61EB_X009_S10	TCGA-H4-A2HO	blca	53	united states	-19630	NA	46	male	NA	8	mx	n0	t4a	stage iii	NA	NA	NA	2	bladder	alive	NA	0	46	0	46	0	46	0	46
+BLCA_CC57A8ED_A5DB_4ADA_A038_ABE5AA7A6A2B_X023_S04	TCGA-CF-A1HR	blca	62	vietnam	-22777	NA	389	male	NA	NA	m0	n0	t3	stage iii	tumor free	NA	NA	1	bladder	alive	NA	0	389	0	389	1	294	1	294
+BLCA_CC5A9968_1F7F_4698_B483_1D426BF00AE3_X017_S12	TCGA-BL-A3JM	blca	62	united states	-23000	205	NA	male	NA	8	m0	n0	t3	stage iii	with tumor	NA	NA	4	bladder	deceased	NA	1	205	1	205	NA	NA	1	111
+BRCA_000CFD9F_ADDF_4304_9E60_6041549E189C_X017_S06	TCGA-A7-A13F	brca	44	NA	-16363	NA	765	female	NA	11	m0	n1a	t3	stage iiia	tumor free	NA	NA	NA	breast	alive	NA	0	765	0	765	0	765	0	765
+BRCA_01112370_4F6F_4A20_9BE0_7975C3465268_X017_S04	TCGA-A7-A13E	brca	62	NA	-22690	614	NA	female	NA	12	mx	n1	t2	stage iib	tumor free	NA	NA	NA	breast	deceased	NA	1	614	1	614	1	556	1	556
+BRCA_0142AAAC_FFE8_43B7_AB99_02F7A1740567_X022_S06	TCGA-BH-A0DP	brca	60	NA	-22199	NA	476	female	NA	4	m0	n0 (i-)	t3	stage iib	tumor free	NA	NA	NA	breast	alive	NA	0	476	0	476	0	476	0	476
+BRCA_037238B0_8FB6_4ECC_9970_93E84F9286EF_X005_S09	TCGA-A2-A0EW	brca	53	NA	-19413	1884	NA	female	NA	NA	m0	n3a	t1b	stage iiic	tumor free	NA	NA	NA	breast	deceased	NA	1	1884	1	1884	NA	NA	1	1353
+BRCA_08499A64_3FD8_4E62_AF08_3C66AF93CAE7_X003_S05	TCGA-A7-A0CH	brca	79	NA	-29104	NA	1079	female	NA	2	m0	n0 (i-)	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	1079	0	1079	0	1079	0	1079
+BRCA_08891EB8_2C41_400C_8A66_BEE040CCA71D_X011_S12	TCGA-AO-A0JM	brca	40	NA	-14653	NA	2184	female	NA	23	m0	n1	t2	stage iib	tumor free	NA	NA	NA	breast	alive	NA	0	2184	0	2184	0	2184	0	2184
+BRCA_11AAB1D2_D77B_42AA_AA32_786A597B9797_X003_S06	TCGA-A2-A0CX	brca	52	NA	-19152	NA	1728	female	NA	2	m0	n0 (i-)	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	1728	0	1728	0	1728	0	1728
+BRCA_11D015DD_1250_48BC_8B5D_3262C97F164B_X012_S08	TCGA-A8-A08J	brca	52	germany	-19266	1127	NA	female	NA	NA	m1	n3	t4b	stage iv	with tumor	NA	NA	NA	breast	deceased	NA	1	1127	1	1127	NA	NA	1	1127
+BRCA_1253F1AD_60FD_4536_97A8_E84B756E5E52_X004_S05	TCGA-A2-A0T4	brca	62	NA	-22849	NA	624	female	NA	2	m0	n0 (i-)	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	624	0	624	0	624	0	624
+BRCA_14AD76EE_12F9_40B3_8DCD_4A256E02CF8D_X020_S12	TCGA-AR-A0TV	brca	66	NA	-24279	NA	2288	female	NA	3	m0	n0	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	2288	0	2288	0	2288	0	2288
+BRCA_1B6783CB_7D24_4D13_908A_19CCAD4CFF34_X002_S06	TCGA-A2-A0T4	brca	62	NA	-22849	NA	624	female	NA	2	m0	n0 (i-)	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	624	0	624	0	624	0	624
+BRCA_1BD15E25_9CE5_49AB_ADCF_41F857F3468D_X021_S04	TCGA-AR-A0U4	brca	54	NA	-19729	NA	3261	female	NA	10	m0	n0	t2	stage iia	NA	NA	NA	NA	breast	alive	NA	0	3261	0	3261	0	3261	0	3261
+BRCA_1D939DC3_EF0C_40BF_BC60_8C5D46345265_X021_S01	TCGA-C8-A137	brca	34	vietnam	-12729	NA	379	female	NA	2	m0	n1	t2	stage iib	tumor free	NA	NA	NA	breast	alive	NA	0	379	0	379	1	136	1	136
+BRCA_1FF8A889_24D2_4439_8BB4_C9AB39B7EE23_X005_S12	TCGA-C8-A12T	brca	NA	NA	NA	NA	NA	female	NA	5	m0	n0	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	0	0	0	0	0	0	0
+BRCA_2106DD3A_1909_46E8_82BD_865333A12F8E_X013_S09	TCGA-A2-A0YK	brca	61	NA	-22625	NA	588	female	NA	3	m0	n0 (i-)	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	588	0	588	NA	NA	0	588
+BRCA_257C1DDD_D646_4F59_BCEE_1403A58BBD80_X023_S06	TCGA-A2-A4RX	brca	67	united states	-24779	NA	742	female	no	3	m0	n0	t2	stage iia	NA	NA	NA	NA	breast	alive	NA	0	742	0	742	0	742	0	742
+BRCA_294C77E4_79D8_4383_8780_324F3DBB1839_X016_S02	TCGA-AO-A0JG	brca	49	NA	-18021	NA	798	female	NA	19	m0	n2a	t2	stage iiia	tumor free	NA	NA	NA	breast	alive	NA	0	798	0	798	NA	NA	0	798
+BRCA_2A65DC63_F8CC_4EF4_AB23_3F5FD880FB5E_X018_S08	TCGA-AR-A0TP	brca	43	NA	-15812	NA	4275	female	NA	5	m0	n0	t2	stage iia	NA	NA	NA	NA	breast	alive	NA	0	4275	0	4275	0	4275	0	4275
+BRCA_2C46607F_72A2_4B40_A311_E1F29C59DCFA_X010_S01	TCGA-C8-A130	brca	52	vietnam	-19117	NA	370	female	NA	8	m0	n2	t3	stage iiia	tumor free	NA	NA	NA	breast	alive	NA	0	370	0	370	0	370	0	370
+BRCA_2D277FFC_F83F_4882_98D7_525388B79C3B_X023_S01	TCGA-AO-A03L	brca	34	NA	-12443	NA	2442	female	NA	17	m0	n2	t3	stage iiia	tumor free	NA	NA	NA	breast	alive	NA	0	2442	0	2442	0	2442	0	2442
+BRCA_3403FB04_ED81_489B_991C_715B423B87DB_X014_S02	TCGA-A8-A094	brca	75	germany	-27729	NA	NA	female	NA	NA	m0	n0	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	0	0	0	0	0	0	0
+BRCA_359C8EB0_48BC_47D5_AD78_38B0AE6C5FB8_X018_S05	TCGA-BH-A0HP	brca	65	NA	-23883	NA	414	female	NA	17	m0	n2a	t3	stage iiia	tumor free	NA	NA	NA	breast	alive	NA	0	414	0	414	0	414	0	414
+BRCA_36EA9779_3126_45DE_8C5D_3E6B3680086C_X012_S06	TCGA-AR-A0U0	brca	73	NA	-26993	NA	1988	female	NA	4	m0	n1	t2	stage iib	NA	NA	NA	NA	breast	alive	NA	0	1988	0	1988	0	1988	0	1988
+BRCA_3899957C_47D6_4274_AB3C_C9E6DE56437F_X008_S09	TCGA-AQ-A04L	brca	48	united states	-17759	NA	3957	female	NA	2	mx	n0 (i-)	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	3957	0	3957	0	3957	0	3957
+BRCA_474D1E91_69F9_4779_B8CE_18F4946A0D9A_X021_S03	TCGA-A2-A0SV	brca	63	united states	-23126	825	NA	female	NA	9	m1	n2a	t2	stage iv	with tumor	NA	NA	NA	breast	deceased	NA	1	825	1	825	NA	NA	1	825
+BRCA_4DE199D4_0892_462C_BE6E_09413F7EF76E_X018_S03	TCGA-AO-A0J5	brca	48	NA	-17815	792	NA	female	NA	2	m1	n1a	t4	stage iv	with tumor	NA	NA	NA	breast	deceased	NA	1	792	1	792	NA	NA	1	792
+BRCA_4F06A0BF_EB31_45EE_BB09_5601502D86FE_X021_S07	TCGA-BH-A0B5	brca	40	NA	-14920	NA	2136	female	NA	24	m0	n2a	t2	stage iiia	tumor free	NA	NA	NA	breast	alive	NA	0	2136	0	2136	NA	NA	0	2136
+BRCA_503860D0_4069_4F6F_91F2_FFB24C3EA1E5_X005_S08	TCGA-C8-A12Q	brca	78	NA	-28733	385	NA	female	NA	7	m0	n2	t1	stage iiia	tumor free	NA	NA	NA	breast	deceased	NA	1	385	1	385	NA	NA	1	385
+BRCA_5C54B79C_DA02_4B22_9FC2_3D61BFFC5559_X019_S11	TCGA-C8-A133	brca	65	vietnam	-23922	NA	NA	female	NA	26	m0	n1	t3	stage iiia	tumor free	NA	NA	NA	breast	alive	NA	0	0	0	0	0	0	0	0
+BRCA_5C60C974_536D_4BD9_ADC5_606CA5E60C04_X020_S10	TCGA-A2-A0EV	brca	80	NA	-29285	NA	968	female	NA	6	m0	n0 (i-)	t1c	stage ia	tumor free	NA	NA	NA	breast	alive	NA	0	968	0	968	0	968	0	968
+BRCA_6108FBB3_DFCE_4A67_A16D_0547827F058C_X008_S04	TCGA-AO-A12F	brca	36	NA	-13409	NA	1842	female	NA	17	m0	n0 (i-)	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	1842	0	1842	0	1842	0	1842
+BRCA_64BD3CE0_7385_461B_9870_AD6611DD886A_X014_S01	TCGA-BH-A0BZ	brca	59	NA	-21856	NA	2255	female	NA	23	m0	n1a	t3	stage iiia	tumor free	NA	NA	NA	breast	alive	NA	0	2255	0	2255	0	2255	0	2255
+BRCA_6D0DAA1B_2ACC_49CC_90C5_07FC4260432E_X011_S05	TCGA-A2-A0SW	brca	82	NA	-30085	1365	NA	female	NA	15	m1	n2	t2	stage iv	with tumor	NA	NA	NA	breast	deceased	NA	1	1365	1	1365	NA	NA	1	653
+BRCA_6F22B7DA_85CA_4E9C_93A3_859878775DDB_X005_S06	TCGA-D8-A13Z	brca	51	poland	-18942	NA	635	female	NA	11	m0	n2a	t2	NA	NA	NA	NA	NA	breast	alive	NA	0	635	0	635	0	635	0	635
+BRCA_73316C1E_DDE9_4C39_8AFD_5E8A1090C425_X006_S11	TCGA-AO-A0J8	brca	61	NA	-22284	NA	680	female	NA	2	m0	n0 (i+)	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	680	0	680	0	680	0	680
+BRCA_74CCA3AC_8984_4207_AD8C_979E7596A5DC_X005_S02	TCGA-BH-A0DV	brca	54	NA	-19781	NA	2064	female	NA	9	m0	n2a	t2	stage iiia	tumor free	NA	NA	NA	breast	alive	NA	0	2064	0	2064	0	2064	0	2064
+BRCA_78F79CE9_210D_47BF_B6AB_AA5327778FBE_X010_S03	TCGA-BH-A0BA	brca	51	NA	-18839	NA	1132	female	NA	27	m0	n3a	t3	stage iiic	tumor free	NA	NA	NA	breast	alive	NA	0	1132	0	1132	0	1132	0	1132
+BRCA_7C6A3AE4_E2EA_42B3_B3F1_81C19E6F2170_X023_S05	TCGA-BH-A0E0	brca	38	NA	-14175	NA	134	female	NA	21	m0	n3a	t3	stage iiic	tumor free	NA	NA	NA	breast	alive	NA	0	134	0	134	0	134	0	134
+BRCA_7D3BBF34_47F6_41EE_B5BF_6571C18984A8_X020_S03	TCGA-C8-A12K	brca	80	vietnam	-29463	NA	NA	female	NA	7	m0	n1	t2	stage iib	tumor free	NA	NA	NA	breast	alive	NA	0	0	0	0	0	0	0	0
+BRCA_852B450B_EBCC_4DD0_BB5A_FBF238C7BD89_X019_S02	TCGA-C8-A12O	brca	50	vietnam	-18506	NA	385	female	NA	10	m0	n0 (i-)	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	385	0	385	0	385	0	385
+BRCA_85C6EA5B_FA06_416B_9D98_80339B9B03DC_X005_S04	TCGA-A2-A0ET	brca	58	NA	-21464	NA	1066	female	NA	15	m0	n2a	t2	stage iiia	tumor free	NA	NA	NA	breast	alive	NA	0	1066	0	1066	0	1066	0	1066
+BRCA_86DA5538_752C_4F30_A411_0970F65BD115_X012_S07	TCGA-AO-A12D	brca	43	NA	-15774	NA	2515	female	NA	16	m0	n1a	t1c	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	2515	0	2515	0	2515	0	2515
+BRCA_873F57F9_5F1E_4B78_AE1A_65C9C6B487CE_X022_S07	TCGA-AO-A03N	brca	59	NA	-21816	NA	2031	female	NA	19	m0	n1a	t2	stage iib	with tumor	NA	NA	NA	breast	alive	NA	0	2031	0	2031	1	1645	1	1645
+BRCA_8762FC8D_91FC_42B8_B74D_141298970EFC_X001_S03	TCGA-A8-A06N	brca	66	germany	-24288	NA	NA	female	NA	NA	m0	n0	t4b	stage iiib	tumor free	NA	NA	NA	breast	alive	NA	0	0	0	0	0	0	0	0
+BRCA_8D1E6006_85CB_484A_8B5C_30766D90137B_X012_S03	TCGA-A2-A0EY	brca	62	NA	-22872	NA	1925	female	NA	23	m0	n1a	t2	stage iib	tumor free	NA	NA	NA	breast	alive	NA	0	1925	0	1925	0	1925	0	1925
+BRCA_8D51DE4E_9B6A_4C2D_BD11_5F66C2173002_X015_S06	TCGA-A2-A0YD	brca	63	NA	-23021	NA	769	female	NA	2	m0	n0 (i+)	t3	stage iib	tumor free	NA	NA	NA	breast	alive	NA	0	769	0	769	0	769	0	769
+BRCA_8D66AC5D_CA8B_47FC_8C61_376A75AEB292_X019_S05	TCGA-A2-A0T7	brca	51	united states	-18756	NA	631	female	NA	2	m0	n0 (i+)	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	631	0	631	0	631	0	631
+BRCA_8DB1A244_D21F_4A52_A70F_317C0CF8B4B7_X014_S11	TCGA-A2-A0EX	brca	46	NA	-16858	NA	752	female	NA	1	m0	n0 (i+)	t3	stage iib	tumor free	NA	NA	NA	breast	alive	NA	0	752	0	752	0	752	0	752
+BRCA_94253529_096B_410E_88D2_80AA79361AD9_X015_S11	TCGA-BH-A0C1	brca	61	NA	-22377	1411	NA	female	NA	10	m0	n2a	t3	stage iiia	with tumor	NA	NA	NA	breast	deceased	NA	1	1411	1	1411	1	1123	1	1123
+BRCA_94AF19F0_1F2A_41EC_8CB6_96C76227811F_X013_S03	TCGA-BH-A0EE	brca	68	NA	-24850	NA	943	female	NA	1	m0	n0 (i-)	t3	stage iib	tumor free	NA	NA	NA	breast	alive	NA	0	943	0	943	0	943	0	943
+BRCA_A3A3CD8F_3497_4615_B288_14E6290DC441_X007_S02	TCGA-BH-A0B1	brca	66	NA	-24315	NA	1148	female	NA	15	m0	n1a	t2	stage iib	tumor free	NA	NA	NA	breast	alive	NA	0	1148	0	1148	0	1148	0	1148
+BRCA_A6462625_3970_44A4_B4CB_7B4AE86648CD_X013_S04	TCGA-C8-A8HR	brca	49	vietnam	-17921	NA	408	female	no	8	m0	n2	t3	stage iiia	tumor free	NA	NA	NA	breast	alive	NA	0	408	0	408	0	408	0	408
+BRCA_A8BD9D89_6D7F_4423_91A6_1627E36887F6_X022_S10	TCGA-A2-A0YT	brca	56	NA	-20482	723	NA	female	NA	5	m0	n2a	t4b	stage iiib	tumor free	NA	NA	NA	breast	deceased	NA	1	723	0	723	0	723	0	723
+BRCA_A91AADEA_8299_46D9_A250_76896D690AFD_X016_S12	TCGA-A7-A0D9	brca	37	NA	-13836	NA	1139	female	NA	1	m0	n0 (i-)	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	1139	0	1139	0	1139	0	1139
+BRCA_BE061C50_495F_46AD_BF95_09C8AD8B5365_X022_S05	TCGA-3C-AALJ	brca	62	united states	-22848	NA	1474	female	no	23	m0	n1a	t2	stage iib	tumor free	NA	NA	NA	breast	alive	NA	0	1474	0	1474	0	1474	0	1474
+BRCA_BE0F871D_DFA0_4B91_A068_41A57C105E1B_X007_S05	TCGA-A2-A0T6	brca	50	NA	-18334	NA	575	female	NA	3	m0	n0 (i-)	t3	stage iib	tumor free	NA	NA	NA	breast	alive	NA	0	575	0	575	0	575	0	575
+BRCA_C147AAD5_A8F1_41D5_8709_21820BE50902_X016_S11	TCGA-A2-A0YJ	brca	39	NA	-14448	NA	566	female	NA	18	m0	n2a	t3	stage iiia	tumor free	NA	NA	NA	breast	alive	NA	0	566	0	566	1	559	1	559
+BRCA_C9C8D426_A3FD_4455_89A9_768BC01D66A9_X009_S01	TCGA-C8-A12M	brca	70	vietnam	-25811	NA	358	female	NA	10	m0	n0 (i-)	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	358	0	358	0	358	0	358
+BRCA_CA5AB738_9366_4908_B573_92C041E15471_X020_S05	TCGA-C8-A12Y	brca	NA	vietnam	NA	NA	1476	female	NA	9	m0	n1	t2	stage iib	tumor free	NA	NA	NA	breast	alive	NA	0	1476	0	1476	0	1476	0	1476
+BRCA_CB96A542_7AC1_4FEC_A5D2_458D8EEDC6C4_X013_S05	TCGA-S3-AA0Z	brca	63	united states	-23314	NA	629	female	no	12	m0	n1a	t2	stage iib	tumor free	NA	NA	NA	breast	alive	NA	0	629	0	629	0	629	0	629
+BRCA_CC102C17_C1CA_427A_8C7D_D3E79748A0CD_X004_S04	TCGA-BH-A0DL	brca	64	NA	-23628	NA	2381	female	NA	3	m0	n0	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	2381	0	2381	0	2381	0	2381
+BRCA_CE1F0208_85C0_40DD_8C03_1595C8A6612C_X007_S01	TCGA-A2-A0YF	brca	67	NA	-24660	NA	1535	female	NA	1	m0	n0 (i+)	t1b	stage i	tumor free	NA	NA	NA	breast	alive	NA	0	1535	0	1535	0	1535	0	1535
+BRCA_CF183B78_9738_4D5F_8A57_82B8C8DD63AF_X009_S09	TCGA-A2-A0YC	brca	59	NA	-21685	NA	990	female	NA	3	m0	n1mi	t2	stage iib	tumor free	NA	NA	NA	breast	alive	NA	0	990	0	990	NA	NA	1	756
+BRCA_D6F24369_2AB6_4A49_B3A4_B3B61D5A13B4_X014_S06	TCGA-A2-A0SX	brca	48	NA	-17774	NA	1534	female	NA	1	m0	n0 (i-)	t1c	stage ia	with tumor	NA	NA	NA	breast	alive	NA	0	1534	0	1534	1	1239	1	1239
+BRCA_D88D85E7_B4D4_4ACB_9815_996EE6B3650D_X011_S03	TCGA-A2-A0YL	brca	48	NA	-17702	NA	1474	female	NA	29	m0	n2a	t3	stage iiia	tumor free	NA	NA	NA	breast	alive	NA	0	1474	0	1474	0	1474	0	1474
+BRCA_DA8D04F8_C74F_4D50_B0B6_BBD15047FE72_X008_S02	TCGA-C8-A12U	brca	46	vietnam	-17045	NA	385	female	NA	7	m0	n1	t2	stage iib	tumor free	NA	NA	NA	breast	alive	NA	0	385	0	385	0	385	0	385
+BRCA_DD69EDE9_142D_46E2_AA06_58D07D3230FB_X016_S08	TCGA-AO-A124	brca	38	NA	-14174	NA	3506	female	NA	18	m0	n0 (i-)	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	3506	0	3506	0	3506	0	3506
+BRCA_DFFD80D2_34AB_4EE6_A7D4_06B557634CC4_X010_S07	TCGA-BH-A1EV	brca	45	NA	-16504	365	NA	female	NA	10	m0	n1b	t3	stage iiia	with tumor	NA	NA	NA	breast	deceased	NA	1	365	1	365	NA	NA	1	365
+BRCA_E2534288_EFAE_4EF6_98A0_0A931BC20FF1_X017_S07	TCGA-A2-A0ES	brca	52	NA	-19160	NA	2190	female	NA	1	m0	n0 (i-)	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	2190	0	2190	0	2190	0	2190
+BRCA_EC8621C3_0A39_478F_BE88_2F1D1A19DA2D_X023_S07	TCGA-C8-A12V	brca	55	vietnam	-20346	NA	385	female	NA	5	m0	n0	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	385	0	385	NA	NA	0	385
+BRCA_EF17C882_9808_4676_9DFA_432D34290B33_X023_S15	TCGA-A2-A0YH	brca	53	NA	-19596	NA	659	female	NA	28	m0	n2a	t2	stage iiia	tumor free	NA	NA	NA	breast	alive	NA	0	659	0	659	0	659	0	659
+BRCA_FB055B59_7512_40E4_8547_39798A4C9B8C_X011_S09	TCGA-4H-AAAK	brca	50	russia	-18371	NA	348	female	no	14	m0	n2a	t2	stage iiia	tumor free	NA	NA	NA	breast	alive	NA	0	348	0	348	0	348	0	348
+BRCA_FB1C995E_6C78_414A_B74C_8C77CD924348_X015_S09	TCGA-AO-A0JB	brca	50	NA	-18561	NA	1542	female	NA	14	m0	n1a	t3	stage iiia	tumor free	NA	NA	NA	breast	alive	NA	0	1542	0	1542	0	1542	0	1542
+BRCA_FCD2477B_7E05_4EB7_BD63_302496AEA537_X017_S11	TCGA-A2-A0T5	brca	39	NA	-14503	NA	531	female	NA	4	m0	n0 (i-)	t2	stage iia	tumor free	NA	NA	NA	breast	alive	NA	0	531	0	531	0	531	0	531
+BRCA_FE43880C_3F93_4463_9C91_5A2DE7130718_X009_S11	TCGA-A2-A0YG	brca	63	NA	-23058	NA	666	female	NA	18	m0	n3a	t2	stage iiic	tumor free	NA	NA	NA	breast	alive	NA	0	666	0	666	0	666	0	666
+CESC_10041818_52A8_4856_ADEE_13E3FC97A737_X003_S09	TCGA-EA-A3HS	cesc	35	russia	-13117	NA	959	female	NA	10	m0	n0	t1b	NA	tumor free	NA	NA	1	cervical	alive	NA	0	959	0	959	0	959	0	959
+CESC_480D4965_DBC3_47D2_A352_E68A44F75232_X004_S10	TCGA-EA-A3HT	cesc	68	russia	-25138	NA	954	female	NA	9	m0	n0	t1b	NA	tumor free	NA	NA	1	cervical	alive	NA	0	954	0	954	0	954	0	954
+CESC_BA6FB645_26C4_436D_AF9D_653767310153_X004_S09	TCGA-EA-A3HT	cesc	68	russia	-25138	NA	954	female	NA	9	m0	n0	t1b	NA	tumor free	NA	NA	1	cervical	alive	NA	0	954	0	954	0	954	0	954
+CESC_DADFADB7_86D6_4074_B19E_BB81F4D22A17_X004_S08	TCGA-EA-A3HT	cesc	68	russia	-25138	NA	954	female	NA	9	m0	n0	t1b	NA	tumor free	NA	NA	1	cervical	alive	NA	0	954	0	954	0	954	0	954
+CHOL_1061FF2E_0ECA_4DE5_8D6D_E1A9B123B75F_X009_S05	TCGA-ZH-A8Y7	chol	59	united states	-21880	NA	755	male	yes	NA	m1	n0	t3	stage ivb	with tumor	NA	r1	NA	bile duct	alive	NA	0	755	0	755	NA	NA	1	301
+CHOL_2C9A8381_93B9_441F_B8DD_EFA6B50812FD_X016_S04	TCGA-ZH-A8Y5	chol	69	united states	-25268	NA	1229	male	yes	NA	m1	n1	t3	stage ivb	with tumor	NA	r0	NA	bile duct	alive	NA	0	1229	0	1229	NA	NA	1	242
+CHOL_39DCFAD0_1750_4418_9643_B5F2EAD9632A_X014_S08	TCGA-3X-AAVA	chol	50	canada	-18303	445	NA	female	yes	NA	m0	nx	t2b	stage ii	with tumor	NA	r0	NA	bile duct	deceased	NA	1	445	1	445	1	264	1	264
+CHOL_75A6DCBC_AD94_4D7C_BF14_E5CB355B0E91_X019_S04	TCGA-W6-AA0T	chol	62	united states	-23004	NA	656	female	no	NA	m0	n0	t3	stage iii	tumor free	NA	r0	NA	bile duct	alive	NA	0	656	0	656	0	656	0	656
+COAD_0914606C_2CA1_4287_B530_DB70EA93ED6C_X022_S02	TCGA-AY-A8YK	coad	44	united states	-16140	NA	573	male	no	24	m1	n2a	t3	stage iva	tumor free	complete remission/response	r0	NA	colon	alive	NA	0	573	0	573	NA	NA	0	573
+COAD_0B139EBC_D372_4EC3_90DB_4CC9BC6F38DC_X006_S05	TCGA-NH-A50U	coad	42	united states	-15450	334	NA	male	yes	17	m1a	n0	t4a	stage iva	with tumor	partial remission/response	r0	NA	colon	deceased	NA	1	334	1	334	NA	NA	1	276
+COAD_0B7D5055_6D9C_46BB_A420_8098CD555089_X003_S07	TCGA-AA-A010	coad	46	germany	-16922	NA	1064	female	NA	45	m0	n0	t4	stage iib	with tumor	NA	r0	NA	colon	alive	NA	0	1064	0	1064	0	1064	0	1064
+COAD_1B956E80_EFF5_4EF5_88F3_EBDF4515217A_X021_S05	TCGA-4N-A93T	coad	67	united states	-24523	NA	146	male	no	25	m0	n1b	t4a	stage iiib	with tumor	stable disease	r0	NA	colon	alive	NA	0	146	0	146	NA	NA	0	146
+COAD_1E46B832_4B41_4CA3_B2DB_C8287EFFC589_X011_S04	TCGA-NH-A5IV	coad	90	united states	-32872	NA	588	female	no	12	mx	n0	t3	stage iia	tumor free	complete remission/response	r0	NA	colon	alive	NA	0	588	0	588	0	588	0	588
+COAD_29C18FA9_CDF6_49A5_9CEB_49C11EF0433F_X003_S08	TCGA-AA-A01X	coad	80	germany	-29281	NA	791	female	NA	14	m0	n1	t2	stage iii	with tumor	NA	rx	NA	colon	alive	NA	0	791	0	791	NA	NA	1	791
+COAD_2EB7D36F_5616_460C_91C9_6D0AEA893D97_X001_S04	TCGA-AA-A024	coad	81	germany	-29708	1188	NA	male	NA	14	m0	n0	t3	stage ii	with tumor	NA	r0	NA	colon	deceased	NA	1	1188	0	1188	0	1188	0	1188
+COAD_32AA8B86_5414_4552_B946_E2F368618E5F_X009_S12	TCGA-NH-A6GA	coad	58	united states	-21313	302	NA	male	yes	33	mx	n2a	t4a	stage iiic	with tumor	progressive disease	r0	NA	colon	deceased	NA	1	302	1	302	NA	NA	1	6
+COAD_3B3A0F79_C38C_42F9_A7ED_EEA42B66C468_X023_S14	TCGA-A6-A567	coad	56	united states	-20493	1881	NA	male	yes	41	m1	n1	t3	stage iv	with tumor	NA	NA	NA	colon	deceased	NA	1	1881	1	1881	NA	NA	1	612
+COAD_3ECCFFD0_0915_4151_9B10_6C7C37372A72_X002_S05	TCGA-AA-A010	coad	46	germany	-16922	NA	1064	female	NA	45	m0	n0	t4	stage iib	with tumor	NA	r0	NA	colon	alive	NA	0	1064	0	1064	0	1064	0	1064
+COAD_42D5A2CF_D448_4072_8278_98B643DAA870_X022_S08	TCGA-AA-A02E	coad	82	germany	-30256	90	NA	female	NA	16	m1	n1	t3	stage iv	with tumor	NA	r2	NA	colon	deceased	NA	1	90	1	90	NA	NA	1	90
+COAD_42E74A17_DD9B_46E6_9EE5_B13002ABE778_X012_S09	TCGA-AY-A69D	coad	55	united states	-20299	NA	543	female	no	25	m0	n0	t3	stage iia	tumor free	complete remission/response	r0	NA	colon	alive	NA	0	543	0	543	0	543	0	543
+COAD_46471206_CECD_4A89_99A9_809675776136_X015_S01	TCGA-AD-6889	coad	NA	united states	NA	2532	NA	male	NA	16	m0	n0	t3	stage iia	tumor free	NA	r0	NA	colon	deceased	NA	1	2532	0	2532	1	1516	1	1516
+COAD_492F3932_39FF_4FB1_89D8_8A9474FBA080_X019_S06	TCGA-AA-A00J	coad	80	germany	-29371	NA	549	male	NA	24	m0	n1	t4	stage iiib	with tumor	NA	r0	NA	colon	alive	NA	0	549	0	549	NA	NA	0	549
+COAD_4A17E8A4_41C9_42FB_8976_C38C0DE9EC05_X004_S03	TCGA-AA-A024	coad	81	germany	-29708	1188	NA	male	NA	14	m0	n0	t3	stage ii	with tumor	NA	r0	NA	colon	deceased	NA	1	1188	0	1188	0	1188	0	1188
+COAD_542202A7_3D76_40F4_89CC_8DA386DCF48B_X007_S12	TCGA-AA-A00W	coad	80	germany	-29311	NA	456	male	NA	17	m0	n0	t1	stage i	with tumor	NA	r0	NA	colon	alive	NA	0	456	0	456	NA	NA	0	456
+COAD_561632F0_56A1_4FF0_8DD1_219AD30591D4_X015_S04	TCGA-A6-A565	coad	34	united states	-12526	494	NA	female	yes	41	mx	n2	t3	stage iiic	with tumor	progressive disease	rx	NA	colon	deceased	NA	1	494	1	494	NA	NA	1	301
+COAD_57255B8E_9085_4CDF_98DE_B4858BFF5789_X019_S07	TCGA-AA-A02F	coad	68	germany	-25051	NA	1216	female	NA	12	m1	n1	t3	stage iv	with tumor	NA	r2	NA	colon	alive	NA	0	1216	0	1216	NA	NA	0	1216
+COAD_5D002D01_AE41_44B9_BE6B_A58B470062BD_X020_S09	TCGA-AA-A00Q	coad	66	germany	-24199	NA	1278	female	NA	31	m0	n1	t4	stage iiib	with tumor	NA	r0	NA	colon	alive	NA	0	1278	0	1278	0	1278	0	1278
+COAD_60C262B4_7743_46BC_A16A_3C087FA577BE_X010_S12	TCGA-AA-A01D	coad	47	germany	-17318	334	NA	female	NA	12	m0	n2	t3	stage iiic	with tumor	NA	r0	NA	colon	deceased	NA	1	334	1	334	NA	NA	1	183
+COAD_62DDE2A9_D8F7_4DD6_BE50_CC208AE71FFC_X017_S05	TCGA-NH-A50V	coad	69	united states	-25467	NA	588	male	no	35	m0	n2a	t3	stage iiib	tumor free	NA	r0	NA	colon	alive	NA	0	588	0	588	0	588	0	588
+COAD_64DC847B_9D5E_4484_B067_0B8B585B0DF8_X014_S07	TCGA-AA-A00E	coad	65	germany	-23741	NA	913	male	NA	41	m0	n0	t3	stage iia	with tumor	NA	r0	NA	colon	alive	NA	0	913	0	913	0	913	0	913
+COAD_73167300_8F3F_4ACB_B519_2897C285C63F_X010_S02	TCGA-SS-A7HO	coad	44	united states	-16416	NA	1829	female	yes	25	m0	n0	t4a	stage iib	with tumor	complete remission/response	r0	NA	colon	alive	NA	0	1829	0	1829	1	506	1	506
+COAD_74EF44ED_9B3A_4E21_9E86_6C753CF94F4F_X006_S03	TCGA-AA-A01P	coad	80	germany	-29554	1158	NA	female	NA	21	m0	n1	t3	stage iii	with tumor	NA	r0	NA	colon	deceased	NA	1	1158	1	1158	NA	NA	1	762
+COAD_77DDE147_7453_4E7A_A730_E2D408F968ED_X018_S06	TCGA-NH-A6GC	coad	66	united states	-24355	NA	389	female	no	19	m1b	n1b	t4b	stage ivb	NA	NA	r0	NA	colon	alive	NA	0	389	0	389	NA	NA	0	389
+COAD_7E54C176_FB16_4492_9688_2BCD0F421E56_X004_S07	TCGA-AA-A010	coad	46	germany	-16922	NA	1064	female	NA	45	m0	n0	t4	stage iib	with tumor	NA	r0	NA	colon	alive	NA	0	1064	0	1064	0	1064	0	1064
+COAD_8E38B9F2_90FA_4DA8_A332_7F8B75AD6C4A_X023_S08	TCGA-A6-A566	coad	55	united states	-20181	758	NA	female	yes	13	m0	n1	t4	stage iiib	with tumor	progressive disease	r0	NA	colon	deceased	NA	1	758	1	758	NA	NA	1	257
+COAD_A5B3C573_AAC8_4775_AE3F_AE7D3BE2CC80_X017_S08	TCGA-AA-A022	coad	88	germany	-32446	NA	NA	female	NA	18	m0	n0	t4	stage ii	with tumor	NA	r0	NA	colon	alive	NA	0	0	0	0	NA	NA	0	0
+COAD_AEB99386_152C_4B0C_AC65_6B222FCE2412_X002_S04	TCGA-NH-A8F8	coad	79	united states	-29185	511	NA	male	no	22	m1	n2b	t4a	stage iv	NA	NA	r0	NA	colon	deceased	NA	1	511	1	511	NA	NA	1	511
+COAD_B5AE6F25_E2EA_412F_AC4C_E11EA47FC490_X007_S03	TCGA-NH-A8F7	coad	53	united states	-19535	NA	543	female	no	18	mx	n0	t3	stage iia	with tumor	partial remission/response	r0	NA	colon	alive	NA	0	543	0	543	NA	NA	0	543
+COAD_BA3E7A65_30AB_4ED9_BF52_ED8138164EB9_X007_S08	TCGA-QG-A5YV	coad	64	united states	-23499	NA	1301	female	no	33	mx	n1a	t4b	stage iiic	tumor free	complete remission/response	r0	NA	colon	alive	NA	0	1301	0	1301	0	1301	0	1301
+COAD_BC05CF64_A1D1_4B97_912E_5B98183DBC8C_X016_S03	TCGA-QG-A5YX	coad	61	united states	-22617	NA	1003	female	no	13	mx	n0	t3	stage iia	tumor free	complete remission/response	r0	NA	colon	alive	NA	0	1003	0	1003	0	1003	0	1003
+COAD_C4C5A550_D6B2_4D3F_9AC6_6670C4536911_X018_S04	TCGA-AA-A01R	coad	47	germany	-17289	NA	1065	male	NA	19	m0	n2	t3	stage iii	with tumor	NA	r0	NA	colon	alive	NA	0	1065	0	1065	NA	NA	1	608
+COAD_CC735B5F_BE7A_4206_BB75_48A9C82CB8D3_X013_S08	TCGA-QL-A97D	coad	84	united states	-30914	NA	666	female	no	13	mx	n0	t2	stage i	tumor free	complete remission/response	NA	NA	colon	alive	NA	0	666	0	666	0	666	0	666
+COAD_D0F82B03_939F_4445_AC8E_64C964402761_X007_S04	TCGA-AA-A01S	coad	47	germany	-17257	NA	31	female	NA	19	m0	n1	t3	stage iii	with tumor	NA	r0	NA	colon	alive	NA	0	31	0	31	NA	NA	0	31
+COAD_DC7564C4_1BB1_4FC9_B8BB_B557E69E35CC_X013_S11	TCGA-DM-A28G	coad	75	israel	-27641	1849	NA	male	NA	25	m0	n0	t3	stage iia	NA	NA	NA	NA	colon	deceased	NA	1	1849	NA	1849	NA	NA	0	1849
+COAD_E51C5352_B7B3_4ADD_9762_EFF31721773F_X016_S05	TCGA-AY-A54L	coad	74	united states	-27074	NA	525	female	no	24	m0	n0	t2	stage i	tumor free	complete remission/response	r0	NA	colon	alive	NA	0	525	0	525	1	396	1	396
+COAD_E909BFFC_69FE_4F53_AB5E_5E99EEFDAE02_X012_S10	TCGA-AA-A00L	coad	66	germany	-24319	NA	1157	male	NA	32	m0	n0	t3	stage iia	with tumor	NA	r0	NA	colon	alive	NA	0	1157	0	1157	0	1157	0	1157
+COAD_EAA1986E_7F10_47A6_BF27_02BAAF0E7A58_X011_S11	TCGA-3L-AA1B	coad	61	united states	-22379	NA	475	female	no	28	m0	n0	t2	stage i	tumor free	complete remission/response	r0	NA	colon	alive	NA	0	475	0	475	0	475	0	475
+COAD_ED8C6999_09C5_4B1C_916B_0E479EB39F6D_X009_S08	TCGA-AY-A71X	coad	54	united states	-19904	NA	588	female	no	28	m0	n0	t2	stage i	tumor free	complete remission/response	r0	NA	colon	alive	NA	0	588	0	588	0	588	0	588
+COAD_FB8215D6_C4F6_45D9_965E_A6992E9EAEB7_X021_S12	TCGA-A6-A56B	coad	57	united states	-20903	1711	NA	male	no	25	m0	n1	t3	stage iiib	tumor free	complete remission/response	r0	NA	colon	deceased	NA	1	1711	0	1711	1	1678	1	1678
+ESCA_1E6AC686_96C2_46C4_A451_12D30114DD06_X012_S02	TCGA-IG-A51D	esca	63	russia	-23259	NA	518	male	no	1	m0	n1	t1	stage iib	tumor free	NA	NA	1	NA	alive	NA	0	518	0	518	NA	NA	0	518
+ESCA_1FEF5E19_2351_4D46_99B4_63F0637ABF17_X010_S08	TCGA-LN-A9FQ	esca	62	vietnam	-22717	NA	391	male	no	NA	m0	n0	t3	stage iia	tumor free	NA	NA	1	NA	alive	NA	0	391	0	391	1	82	1	82
+ESCA_22102BD7_4D9F_4914_84D0_C64E2CB0D8C1_X018_S02	TCGA-L7-A6VZ	esca	62	united states	-22730	NA	315	male	no	20	mx	n3	t3	stage iiic	tumor free	NA	NA	1	NA	alive	NA	0	315	0	315	0	315	0	315
+ESCA_28184A42_07CF_4C5F_90E4_805CB39E2990_X015_S05	TCGA-L5-A4OE	esca	81	united states	-29591	730	NA	male	no	17	NA	n2	t3	stage iiib	NA	NA	NA	3	NA	deceased	NA	1	730	NA	730	0	730	0	730
+ESCA_2CF8A6D4_F43E_41A6_AD3B_22E699550CD2_X008_S08	TCGA-LN-A49O	esca	47	vietnam	-17237	NA	408	male	no	NA	m0	n0	t3	stage iia	tumor free	NA	NA	4	NA	alive	NA	0	408	0	408	1	193	1	193
+ESCA_30FD1AB6_6197_498C_86D0_2A8CA2B1FA51_X016_S01	TCGA-IG-A7DP	esca	50	bulgaria	-18364	NA	452	female	no	NA	mx	nx	t4a	stage iiia	tumor free	NA	NA	1	NA	alive	NA	0	452	0	452	0	452	0	452
+ESCA_3433A6BC_AEAF_459B_8A67_C0C2301280C8_X007_S06	TCGA-LN-A4A5	esca	49	vietnam	-18160	681	NA	male	no	NA	m0	n0	t2	stage iia	tumor free	NA	NA	1	NA	deceased	NA	1	681	1	681	1	224	1	224
+ESCA_3DB8158E_7924_4C46_91F3_BC9D279B82A6_X023_S11	TCGA-IG-A4P3	esca	48	ukraine	-17860	567	NA	male	no	15	m0	n1	t2	stage iib	with tumor	NA	NA	4	NA	deceased	NA	1	567	1	567	NA	NA	1	567
+ESCA_57016875_7C97_43EE_AD1F_242912852479_X021_S06	TCGA-IG-A3YA	esca	53	russia	-19567	NA	632	male	NA	4	m0	n0	t4	stage iiia	with tumor	NA	NA	2	NA	alive	NA	0	632	0	632	0	632	0	632
+ESCA_663192A1_DAE9_463A_A3E4_C4E7EDBD5734_X006_S02	TCGA-IG-A4QS	esca	71	ukraine	-26273	118	NA	male	no	6	m0	n2	t3	stage iiib	tumor free	NA	NA	1	NA	deceased	NA	1	118	0	118	0	118	0	118
+ESCA_6DC73EB5_5736_46B8_8731_B44C4F740B2F_X017_S09	TCGA-LN-A7HX	esca	72	vietnam	-26517	NA	372	male	no	NA	m0	n0	t2	stage iia	tumor free	NA	NA	2	NA	alive	NA	0	372	0	372	0	372	0	372
+ESCA_7DBFB952_8680_464C_A692_69343181D996_X007_S10	TCGA-LN-A8HZ	esca	56	vietnam	-20510	NA	375	male	no	NA	m0	n0	t2	stage iia	tumor free	NA	NA	NA	NA	alive	NA	0	375	0	375	0	375	0	375
+ESCA_81D32E9D_3A4E_466E_B7B3_4D0FD8822CB4_X005_S05	TCGA-LN-A4A2	esca	57	vietnam	-21122	NA	380	male	no	NA	m0	n0	t3	stage iia	tumor free	NA	NA	1	NA	alive	NA	0	380	0	380	0	380	0	380
+ESCA_8CD2B7FE_9FFB_4EA3_B17F_098AFE0CDA2A_X005_S10	TCGA-LN-A4MR	esca	57	vietnam	-21142	NA	402	male	no	NA	m0	n0	t2	stage iia	tumor free	NA	NA	1	NA	alive	NA	0	402	0	402	1	226	1	226
+ESCA_C6860084_FC18_4AD6_8784_E548B1A59573_X007_S11	TCGA-IG-A625	esca	60	vietnam	-22070	390	NA	male	no	8	m0	n2	t3	stage iiib	tumor free	NA	NA	1	NA	deceased	NA	1	390	0	390	NA	NA	0	390
+ESCA_E7719DEC_B2E3_41D3_BB06_BCA05538058A_X006_S04	TCGA-LN-A49W	esca	73	vietnam	-26910	NA	403	male	no	2	m0	n1	t3	stage iii	tumor free	NA	NA	4	NA	alive	NA	0	403	0	403	0	403	0	403
+ESCA_F025BE90_A174_4C60_987A_58EFE830C68A_X020_S04	TCGA-IC-A6RE	esca	59	united states	-21640	NA	234	male	no	38	m0	n1	t1	stage iib	with tumor	NA	NA	2	NA	alive	NA	0	234	0	234	0	234	0	234
+ESCA_F85278F2_0497_4F2D_B8E5_CDEE733FB047_X013_S01	TCGA-M9-A5M8	esca	58	canada	-21433	NA	1007	male	no	16	m0	n0	t3	stage iia	tumor free	NA	NA	2	NA	alive	NA	0	1007	0	1007	0	1007	0	1007
+GBMx_09C0DCE7_D669_4D28_980D_BF71179116A4_X008_S01	TCGA-06-A7TK	gbm	64	united states	-23674	444	NA	male	NA	NA	NA	NA	NA	NA	with tumor	NA	NA	NA	brain	deceased	NA	1	444	1	444	NA	NA	1	342
+GBMx_193F811A_D110_4C59_86B7_FFDAA205844B_X015_S12	TCGA-4W-AA9S	gbm	69	united states	-25545	NA	44	male	NA	NA	NA	NA	NA	NA	tumor free	stable disease	NA	NA	brain	alive	NA	0	44	0	44	NA	NA	0	44
+GBMx_6BEE2CB6_9AFD_42A6_9C26_9C4428FBABFA_X019_S10	TCGA-OX-A56R	gbm	68	united states	-25178	180	NA	male	NA	NA	NA	NA	NA	NA	with tumor	partial remission/response	NA	NA	brain	deceased	NA	1	180	1	180	NA	NA	1	180
+GBMx_714AA767_CACF_413D_B2FD_FE1882A80C57_X008_S07	TCGA-76-6656	gbm	66	NA	-24265	147	NA	male	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	brain	deceased	NA	1	147	NA	147	NA	NA	0	147
+GBMx_9976F952_23A5_431A_A431_01E544324A26_X022_S03	TCGA-81-5910	gbm	64	NA	-23567	49	NA	male	NA	NA	NA	NA	NA	NA	with tumor	NA	NA	NA	brain	deceased	NA	1	49	1	49	NA	NA	1	49
+GBMx_99D8A126_072F_4485_8D2D_6981505460C2_X017_S01	TCGA-RR-A6KB	gbm	51	united states	-18713	NA	NA	male	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	brain	alive	NA	0	0	0	0	NA	NA	0	0
+GBMx_A299027D_1362_4261_95BC_DD25B12F57C2_X020_S06	TCGA-06-A6S1	gbm	53	united states	-19443	78	NA	female	NA	NA	NA	NA	NA	NA	with tumor	progressive disease	NA	NA	brain	deceased	NA	1	78	1	78	NA	NA	1	46
+GBMx_A90B18B6_6056_46D1_BF4E_70710236B8DD_X011_S07	TCGA-06-A5U0	gbm	21	united states	-7958	NA	815	female	yes	NA	NA	NA	NA	NA	with tumor	progressive disease	NA	NA	brain	alive	NA	0	815	0	815	NA	NA	1	100
+GBMx_ED12A6C9_D96E_49C4_B882_6382A5FB4538_X023_S02	TCGA-06-A7TL	gbm	30	united states	-11297	NA	539	female	NA	NA	NA	NA	NA	NA	with tumor	stable disease	NA	NA	brain	alive	NA	0	539	0	539	NA	NA	1	188
+HNSC_19453A09_733B_4E0B_AD43_90DFE9374598_X037_S10	TCGA-KU-A66S	hnsc	69	NA	-25454	406	NA	female	no	7	mx	n1	t1	stage iii	tumor free	NA	NA	2	head and neck	deceased	NA	1	406	1	406	1	389	1	389
+HNSC_2790E71B_7C59_4237_8DD6_5FDE8971AFDC_X037_S07	TCGA-H7-A76A	hnsc	57	united states	-20946	NA	637	male	no	31	mx	n2b	tx	NA	tumor free	complete remission/response	NA	4	head and neck	alive	NA	0	637	0	637	NA	NA	0	637
+HNSC_4BB2B5AC_B01A_439A_A7AD_EF8CEC865DB3_X026_S06	TCGA-D6-A6EP	hnsc	62	poland	-22674	NA	424	male	no	4	m0	n0	t3	stage iii	tumor free	complete remission/response	NA	3	head and neck	alive	NA	0	424	0	424	0	424	0	424
+HNSC_792EA5E5_66EF_406A_AFCA_70BC90A6C324_X038_S05	TCGA-F7-A624	hnsc	73	russia	-26667	NA	378	male	no	NA	m0	nx	t2	stage ii	tumor free	NA	NA	1	head and neck	alive	NA	0	378	0	378	0	378	0	378
+HNSC_7F157EB5_19C5_4E68_827E_327704D7A212_X024_S01	TCGA-CV-A468	hnsc	42	united states	-15372	464	NA	male	no	34	m0	n2a	t4a	stage iva	tumor free	complete remission/response	NA	2	head and neck	deceased	NA	1	464	0	464	NA	NA	0	464
+HNSC_855DA2A7_03B9_4E59_BDFE_F1D86395FC26_X030_S12	TCGA-BA-A8YP	hnsc	50	united states	-18355	NA	499	male	no	66	m0	n3	t4a	stage ivb	tumor free	complete remission/response	NA	2	head and neck	alive	NA	0	499	0	499	NA	NA	0	499
+HNSC_B4C01112_D529_49C5_A458_0E09DA1C071E_X041_S05	TCGA-KU-A6H7	hnsc	55	united states	-20314	NA	586	female	no	23	m0	n2a	t2	stage iva	tumor free	complete remission/response	NA	4	head and neck	alive	NA	0	586	0	586	NA	NA	0	586
+HNSC_D6F95774_441D_47F6_93CE_999D7BE81E44_X040_S11	TCGA-CN-A49B	hnsc	71	united states	-26155	NA	904	male	no	39	mx	n1	t3	stage iii	tumor free	complete remission/response	NA	4	head and neck	alive	NA	0	904	0	904	0	904	0	904
+HNSC_D8E8DB95_B06F_43C5_90BD_303E4A0E1874_X031_S07	TCGA-BA-A4IH	hnsc	57	united states	-21094	NA	622	male	no	39	m0	n1	t2	NA	tumor free	complete remission/response	NA	4	head and neck	alive	NA	0	622	0	622	NA	NA	0	622
+KIRC_0A1F461B_6A6F_4142_8174_073ABBC28DF8_X002_S01	TCGA-B8-A8YJ	kirc	60	united states	-21994	NA	431	female	no	NA	NA	nx	t1b	stage i	tumor free	complete remission/response	NA	3	kidney	alive	NA	0	431	0	431	0	431	0	431
+KIRC_0BCD21B9_CB40_447A_A948_1E81C1639D73_X004_S11	TCGA-DV-A4VX	kirc	59	united states	-21670	1626	NA	male	NA	25	mx	n0	t3b	stage iv	with tumor	progressive disease	NA	2	kidney	deceased	NA	1	1626	1	1626	NA	NA	1	1626
+KIRC_26756D07_DF00_425A_853F_93B4E5617D46_X022_S04	TCGA-CJ-5677	kirc	54	NA	-19849	782	NA	female	NA	NA	m1	nx	t3a	stage iv	with tumor	NA	NA	NA	kidney	deceased	NA	1	782	1	782	NA	NA	1	288
+KIRC_2C210B7C_F149_4818_98F3_9B143E33B851_X001_S01	TCGA-CJ-5671	kirc	51	NA	-18954	NA	3987	male	NA	NA	m0	nx	t1a	stage i	tumor free	NA	NA	1	kidney	alive	NA	0	3987	0	3987	0	3987	0	3987
+KIRC_3452354F_0DD5_47A3_BCB0_46A55541F9CF_X014_S12	TCGA-B8-A54E	kirc	62	united states	-22900	NA	909	female	no	NA	mx	nx	t1b	stage i	tumor free	complete remission/response	NA	2	kidney	alive	NA	0	909	0	909	0	909	0	909
+KIRC_5786B3A8_42EB_47D3_A498_7FB1B3396376_X003_S10	TCGA-B8-A54G	kirc	50	united states	-18612	NA	53	male	no	NA	mx	nx	t1a	stage i	tumor free	complete remission/response	NA	3	kidney	alive	NA	0	53	0	53	0	53	0	53
+KIRC_636FFA9B_55A1_4D2E_A2DF_AF9FF8FA74A2_X018_S12	TCGA-B2-A4SR	kirc	61	united states	-22637	NA	507	male	yes	NA	m0	nx	t2a	stage ii	tumor free	complete remission/response	NA	4	kidney	alive	NA	0	507	0	507	1	266	1	266
+KIRC_74F7F7E1_DD7C_4A10_A83D_3531DB117830_X003_S03	TCGA-GK-A6C7	kirc	76	united states	-28107	NA	61	female	no	NA	mx	nx	t1a	stage i	tumor free	complete remission/response	NA	1	kidney	alive	NA	0	61	0	61	0	61	0	61
+KIRC_764CDC61_4B64_49A5_ADD9_8CFDA859D486_X023_S09	TCGA-B8-A54K	kirc	61	united states	-22627	NA	469	male	no	NA	mx	nx	t1a	stage i	tumor free	complete remission/response	NA	1	kidney	alive	NA	0	469	0	469	0	469	0	469
+KIRC_7D6A394E_01EC_4C58_A010_1C63147A376A_X010_S10	TCGA-MM-A564	kirc	68	united states	-24916	NA	607	male	no	NA	mx	nx	t2a	stage ii	tumor free	complete remission/response	NA	1	kidney	alive	NA	0	607	0	607	0	607	0	607
+KIRC_8B2A2833_6735_4555_941D_BAEFE9248C9E_X003_S04	TCGA-3Z-A93Z	kirc	69	united states	-25205	NA	385	male	no	NA	m0	n0	t1a	stage i	tumor free	NA	NA	5	kidney	alive	NA	0	385	0	385	0	385	0	385
+KIRC_97AE56C6_2AA5_4B27_977E_204C9A68FB9C_X013_S02	TCGA-CJ-5679	kirc	73	NA	-26858	679	NA	male	NA	NA	m0	nx	t3b	stage iii	with tumor	NA	NA	NA	kidney	deceased	NA	1	679	1	679	NA	NA	1	595
+KIRC_B4113118_07F1_4E2F_A702_43CDB2C0B192_X010_S05	TCGA-B8-A54J	kirc	60	united states	-22071	NA	528	male	no	NA	mx	nx	t2a	stage ii	tumor free	complete remission/response	NA	1	kidney	alive	NA	0	528	0	528	0	528	0	528
+KIRC_B73B67F3_4074_4DBF_97F1_081A17147C54_X007_S07	TCGA-6D-AA2E	kirc	68	united states	-25043	NA	362	female	no	NA	mx	nx	t1b	stage i	tumor free	NA	NA	1	kidney	alive	NA	0	362	0	362	NA	NA	0	362
+KIRC_E23C2DB7_95FC_4883_AE21_DC5573914B08_X018_S11	TCGA-B8-A54F	kirc	49	united states	-18028	NA	519	female	no	NA	mx	nx	t1a	stage i	tumor free	complete remission/response	NA	2	kidney	alive	NA	0	519	0	519	0	519	0	519
+KIRC_F62461A5_6358_41C0_9435_01FA2C47868F_X004_S12	TCGA-B8-A54H	kirc	69	united states	-25243	NA	256	female	no	2	mx	n0	t2a	stage ii	tumor free	complete remission/response	NA	1	kidney	alive	NA	0	256	0	256	0	256	0	256
+KIRP_042753BE_85C4_4099_8D32_D0CB0E1EB4DD_X017_S10	TCGA-B9-A8YI	kirp	79	united states	-28917	NA	374	male	no	NA	mx	nx	t1b	stage i	tumor free	complete remission/response	NA	3	kidney	alive	NA	0	374	0	374	0	374	0	374
+KIRP_09B393E2_4336_4C79_BA60_5DCF9129164C_X011_S08	TCGA-UZ-A9PK	kirp	71	united states	-25933	NA	3571	male	yes	NA	mx	nx	t1	stage i	with tumor	NA	NA	NA	kidney	alive	NA	0	3571	0	3571	1	3157	1	3157
+KIRP_0C6C66CE_7D41_4176_8438_F275CDFE7759_X006_S07	TCGA-P4-A5E6	kirp	67	united states	-24615	NA	3035	male	no	3	mx	n1	t1b	stage iii	tumor free	complete remission/response	NA	3	kidney	alive	NA	0	3035	0	3035	0	3035	0	3035
+KIRP_0FE0002E_9238_49B8_9550_980FC3AB7146_X021_S11	TCGA-PJ-A8JU	kirp	81	united states	-29830	NA	380	female	no	NA	mx	nx	t1a	stage i	tumor free	complete remission/response	NA	3	kidney	alive	NA	0	380	0	380	0	380	0	380
+KIRP_270E1387_1CB4_4420_AB6C_F489F428DF35_X023_S12	TCGA-HE-A5NH	kirp	62	canada	-22888	NA	791	male	no	NA	NA	nx	t1a	stage i	tumor free	complete remission/response	NA	1	kidney	alive	NA	0	791	0	791	0	791	0	791
+KIRP_3AB3B701_7C1B_488C_B975_0F6F80F0CB57_X018_S07	TCGA-4A-A93Y	kirp	63	united states	-23226	NA	352	female	no	1	m0	n0	t2b	stage ii	tumor free	complete remission/response	NA	4	kidney	alive	NA	0	352	0	352	0	352	0	352
+KIRP_505F564D_34DD_4D23_BB66_E55A20D17D60_X008_S05	TCGA-HE-A5NK	kirp	82	canada	-30088	NA	2228	male	no	NA	m0	nx	t1b	NA	tumor free	complete remission/response	NA	3	kidney	alive	NA	0	2228	0	2228	0	2228	0	2228
+KIRP_519FD510_1C90_4477_ADEA_078669DC38F2_X022_S09	TCGA-B9-A44B	kirp	70	united states	-25763	NA	361	male	NA	NA	NA	nx	t3b	stage iii	with tumor	partial remission/response	NA	5	kidney	alive	NA	0	361	0	361	NA	NA	0	361
+KIRP_52DFFDB2_62DB_4DD7_91BB_B9C34FC1E08C_X016_S07	TCGA-F9-A7VF	kirp	75	united states	-27446	NA	73	female	no	NA	m0	nx	t1a	stage i	tumor free	complete remission/response	NA	1	kidney	alive	NA	0	73	0	73	0	73	0	73
+KIRP_5C0BAEF0_C8D9_44C6_B37D_642EE07EA762_X023_S10	TCGA-F9-A8NY	kirp	38	vietnam	-14101	NA	36	female	no	3	m1	n1	t4	stage iv	tumor free	complete remission/response	NA	1	kidney	alive	NA	0	36	0	36	NA	NA	0	36
+KIRP_5E268D3E_9CC0_4D85_9742_765A53CB3D96_X015_S03	TCGA-HE-A5NI	kirp	73	canada	-26985	NA	360	male	no	NA	m0	nx	t1a	stage i	tumor free	complete remission/response	NA	2	kidney	alive	NA	0	360	0	360	0	360	0	360
+KIRP_727BDE79_FED3_4534_9639_7BD8E0AF8FC0_X020_S01	TCGA-UZ-A9PM	kirp	62	united states	-22646	NA	3811	male	NA	NA	mx	n0	t2	stage ii	NA	NA	NA	2	kidney	alive	NA	0	3811	0	3811	0	3811	0	3811
+KIRP_72FE20F7_344B_4E28_B403_E85361A66552_X008_S10	TCGA-B1-A654	kirp	43	united states	-15721	NA	616	female	no	NA	m0	nx	t1a	stage i	tumor free	complete remission/response	NA	2	kidney	alive	NA	0	616	0	616	0	616	0	616
+KIRP_737F435D_531F_4B20_ABB1_91E3E2027D4D_X010_S06	TCGA-4A-A93X	kirp	58	united states	-21348	NA	390	male	no	2	mx	n1	t3a	stage iv	with tumor	stable disease	NA	1	kidney	alive	NA	0	390	0	390	NA	NA	0	390
+KIRP_791AAC61_D60E_41AC_9248_99F517F220E3_X012_S04	TCGA-UZ-A9PP	kirp	60	united states	-21915	NA	3010	male	NA	NA	mx	nx	t1a	stage i	tumor free	NA	NA	1	kidney	alive	NA	0	3010	0	3010	0	3010	0	3010
+KIRP_804764D2_A6F0_46BD_9D0E_7DE65B228F5C_X021_S02	TCGA-B9-A5W8	kirp	50	united states	-18440	NA	524	male	NA	NA	m0	nx	t2b	stage ii	tumor free	complete remission/response	NA	1	kidney	alive	NA	0	524	0	524	0	524	0	524
+KIRP_8AF1A570_9364_41E5_A8A3_E4DD24FAEEA6_X017_S02	TCGA-P4-A5ED	kirp	51	united states	-18698	NA	2816	male	no	NA	mx	nx	t1a	stage i	tumor free	complete remission/response	NA	1	kidney	alive	NA	0	2816	0	2816	0	2816	0	2816
+KIRP_8CAE0E7A_6D06_46BF_BC85_57E457CFBBDA_X008_S11	TCGA-P4-A5EB	kirp	83	united states	-30395	NA	3015	male	no	NA	mx	nx	t1b	stage i	tumor free	complete remission/response	NA	3	kidney	alive	NA	0	3015	0	3015	0	3015	0	3015
+KIRP_90796CEF_ABF4_4134_B560_6BD9A7E78BA0_X007_S09	TCGA-Q2-A5QZ	kirp	61	united states	-22531	NA	428	female	no	NA	mx	nx	t3a	stage iii	NA	complete remission/response	NA	4	kidney	alive	NA	0	428	0	428	1	412	1	412
+KIRP_9B640802_873B_4B53_B626_566FFC002E91_X015_S08	TCGA-GL-A9DC	kirp	66	united states	-24348	NA	392	female	no	16	mx	n0	t1b	stage i	NA	NA	NA	1	kidney	alive	NA	0	392	0	392	0	392	0	392
+KIRP_9E89F1FA_31C6_46C4_B203_29DBB9F1B184_X016_S06	TCGA-UZ-A9PL	kirp	59	united states	-21550	NA	3152	male	NA	NA	mx	nx	t2	stage ii	NA	NA	NA	1	kidney	alive	NA	0	3152	0	3152	0	3152	0	3152
+KIRP_A1F39D17_79BC_485B_80ED_5EBB531CA57C_X006_S12	TCGA-HE-A5NJ	kirp	58	canada	-21485	NA	1726	male	no	NA	m0	nx	t1b	NA	tumor free	complete remission/response	NA	3	kidney	alive	NA	0	1726	0	1726	0	1726	0	1726
+KIRP_A66508E8_FAA2_4B0C_8F22_823809294A97_X020_S11	TCGA-IA-A40U	kirp	56	united states	-20463	NA	511	male	no	7	mx	n0	t3b	stage iii	tumor free	complete remission/response	NA	4	kidney	alive	NA	0	511	0	511	0	511	0	511
+KIRP_B3C1CAEA_4175_4066_B9D1_6CC8097BDB40_X021_S10	TCGA-KV-A74V	kirp	40	united states	-14834	NA	347	male	no	NA	m0	n0	t1a	stage i	tumor free	complete remission/response	NA	1	kidney	alive	NA	0	347	0	347	0	347	0	347
+KIRP_B66E832D_DDE1_44C7_BCA0_AF649AAF50D7_X019_S08	TCGA-UZ-A9PQ	kirp	59	united states	-21550	2624	NA	male	yes	NA	mx	n1	t2	stage iii	with tumor	NA	NA	2	kidney	deceased	NA	1	2624	1	2624	1	2148	1	2148
+KIRP_BEB0AB9C_2DFA_49E1_BD4B_5A65BED95B83_X012_S12	TCGA-P4-AAVL	kirp	85	united states	-31082	487	NA	male	yes	21	mx	n0	t3b	stage iii	with tumor	complete remission/response	NA	1	kidney	deceased	NA	1	487	1	487	1	41	1	41
+KIRP_DB49B30A_EECF_4F76_8E0B_3B0F612996F4_X006_S10	TCGA-UZ-A9PV	kirp	65	united states	-23741	NA	1444	male	NA	NA	mx	nx	t1	stage i	tumor free	NA	NA	1	kidney	alive	NA	0	1444	0	1444	0	1444	0	1444
+KIRP_DB8EEE5B_654A_4078_861D_67364F7F3881_X011_S10	TCGA-F9-A7Q0	kirp	37	vietnam	-13523	NA	398	female	no	NA	m0	nx	t1b	stage i	tumor free	complete remission/response	NA	1	kidney	alive	NA	0	398	0	398	0	398	0	398
+KIRP_DD265FAD_F2AB_4B2E_891B_9F33085DF9AF_X006_S01	TCGA-UZ-A9PJ	kirp	78	united states	-28490	797	NA	male	NA	NA	mx	nx	t1a	stage i	NA	NA	NA	3	kidney	deceased	NA	1	797	NA	797	0	797	0	797
+KIRP_DFEC4B50_8B95_4E6C_B78D_D68B890C66FE_X019_S09	TCGA-P4-A5EA	kirp	54	united states	-19748	201	NA	female	yes	5	mx	n1	t3a	stage iii	with tumor	complete remission/response	NA	1	kidney	deceased	NA	1	201	1	201	1	44	1	44
+KIRP_E65C8B50_CC10_43D7_9739_6E8658F9D89B_X012_S01	TCGA-IA-A40X	kirp	49	united states	-18239	NA	608	female	no	NA	mx	nx	t1a	stage i	tumor free	complete remission/response	NA	1	kidney	alive	NA	0	608	0	608	0	608	0	608
+KIRP_FAD34DB3_49EA_4DDC_A565_145EC396087E_X013_S10	TCGA-B9-A5W9	kirp	40	united states	-14668	NA	5	male	no	NA	mx	nx	t1b	stage i	tumor free	complete remission/response	NA	2	kidney	alive	NA	0	5	0	5	0	5	0	5
+KIRP_FDA28C1E_17D3_4068_88C3_51D150F15DC9_X022_S01	TCGA-2K-A9WE	kirp	53	united states	-19603	NA	214	male	no	NA	m0	nx	t2b	stage ii	tumor free	complete remission/response	NA	1	kidney	alive	NA	0	214	0	214	0	214	0	214
+KIRP_FFF322EC_6F9A_42E4_879B_6439754FE484_X023_S13	TCGA-B1-A47N	kirp	62	united states	-22800	NA	1110	male	no	NA	mx	nx	t1a	stage i	tumor free	complete remission/response	NA	1	kidney	alive	NA	0	1110	0	1110	0	1110	0	1110
+LGGx_116B070A_3412_4866_87B9_8337AD92CA94_X022_S11	TCGA-P5-A77X	lgg	55	russia	-20128	NA	105	female	NA	NA	NA	NA	NA	NA	tumor free	complete remission/response	NA	NA	central nervous system	alive	NA	0	105	0	105	0	105	0	105
+LGGx_2B03F922_2B01_4A7B_988A_BFE9C3BDED00_X030_S02	TCGA-DU-5870	lgg	34	united states	-12764	NA	5546	female	NA	NA	NA	NA	NA	NA	with tumor	NA	NA	NA	central nervous system	alive	NA	0	5546	0	5546	NA	NA	1	4347
+LGGx_2F543B87_3A9F_4B55_9E8D_10B5AB94CE51_X034_S07	TCGA-DB-A75K	lgg	55	united states	-20241	NA	368	female	no	NA	NA	NA	NA	NA	tumor free	complete remission/response	NA	NA	central nervous system	alive	NA	0	368	0	368	0	368	0	368
+LGGx_4E978019_CC7B_42B2_9396_8EEAF92432E4_X019_S03	TCGA-W9-A837	lgg	NA	united states	NA	NA	1553	male	no	NA	NA	NA	NA	NA	with tumor	stable disease	NA	NA	central nervous system	alive	NA	0	1553	0	1553	NA	NA	0	1553
+LGGx_56FF7516_4BDD_4A58_8549_8AD0F007B970_X014_S09	TCGA-P5-A72X	lgg	21	russia	-7913	NA	403	male	NA	NA	NA	NA	NA	NA	tumor free	complete remission/response	NA	NA	central nervous system	alive	NA	0	403	0	403	0	403	0	403
+LGGx_628A914A_4A96_4811_9479_2D8D447AF9E2_X013_S07	TCGA-F6-A8O3	lgg	34	vietnam	-12578	NA	7	male	no	NA	NA	NA	NA	NA	tumor free	complete remission/response	NA	NA	central nervous system	alive	NA	0	7	0	7	0	7	0	7
+LGGx_7BCD063E_F270_458F_9376_729BE2F3E2C6_X015_S02	TCGA-FG-A4MY	lgg	44	united states	-16310	NA	721	female	no	NA	NA	NA	NA	NA	with tumor	stable disease	NA	NA	central nervous system	alive	NA	0	721	0	721	NA	NA	0	721
+LGGx_9A5916F6_43DA_40ED_A66A_7459EEBC8474_X018_S01	TCGA-P5-A72W	lgg	35	russia	-12848	NA	317	male	NA	NA	NA	NA	NA	NA	tumor free	complete remission/response	NA	NA	central nervous system	alive	NA	0	317	0	317	0	317	0	317
+LGGx_A6ED3CBE_E7FD_469C_BF98_07418F13E51B_X037_S06	TCGA-DU-6395	lgg	31	united states	-11584	1491	NA	male	NA	NA	NA	NA	NA	NA	with tumor	NA	NA	NA	central nervous system	deceased	NA	1	1491	1	1491	NA	NA	1	1197
+LGGx_B0E1CD4B_FE13_4964_A0BB_59DFBA5A94BB_X020_S08	TCGA-E1-A7YI	lgg	33	united states	-12229	111	NA	female	yes	NA	NA	NA	NA	NA	with tumor	NA	NA	NA	central nervous system	deceased	NA	1	111	1	111	NA	NA	1	56
+LGGx_D032E98E_01EF_40D9_A839_F88F5E1F3DAF_X017_S03	TCGA-P5-A735	lgg	38	russia	-14152	NA	292	female	NA	NA	NA	NA	NA	NA	tumor free	complete remission/response	NA	NA	central nervous system	alive	NA	0	292	0	292	0	292	0	292
+LGGx_F649997E_20A9_43A5_B8ED_6C21363E4123_X036_S01	TCGA-DU-6407	lgg	35	united states	-13021	2875	NA	female	NA	NA	NA	NA	NA	NA	with tumor	NA	NA	NA	central nervous system	deceased	NA	1	2875	1	2875	NA	NA	1	2397
+LGGx_FC0365FE_DE25_4407_8951_F8D85551FBC3_X016_S10	TCGA-FG-A4MU	lgg	58	NA	-21450	NA	326	male	NA	NA	NA	NA	NA	NA	with tumor	NA	NA	NA	central nervous system	alive	NA	0	326	0	326	NA	NA	0	326
+LIHC_1916FDF9_2E1A_4B05_B5C6_98D5DBEA8488_X036_S08	TCGA-DD-AACI	lihc	69	korea south	-25236	NA	1618	male	yes	NA	m0	n0	t2	stage ii	with tumor	NA	r0	NA	liver	alive	NA	0	1618	0	1618	1	1432	1	1432
+LIHC_273EAF94_CC00_4303_B5FA_D097580CB5E6_X029_S04	TCGA-BC-A3KF	lihc	66	united states	-24328	NA	8	female	NA	NA	m0	nx	t1	stage i	tumor free	NA	r0	NA	liver	alive	NA	0	8	0	8	0	8	0	8
+LIHC_310B2961_4223_4541_AE8B_C22E20775318_X027_S06	TCGA-CC-A7IF	lihc	59	vietnam	-21845	649	NA	male	no	NA	m0	n0	t3	stage iiia	tumor free	NA	r0	NA	liver	deceased	NA	1	649	1	649	0	649	1	254
+LIHC_31861258_F778_40B3_A2A4_E4E8F00794B2_X037_S08	TCGA-BC-A10T	lihc	76	united states	-27944	837	NA	male	NA	NA	mx	nx	t4	NA	with tumor	NA	r1	NA	liver	deceased	NA	1	837	1	837	NA	NA	1	598
+LIHC_39F9069F_8AA1_46EE_B127_69157C3A94A1_X035_S09	TCGA-DD-AACB	lihc	74	korea south	-27103	NA	2324	female	no	NA	m0	n0	t1	stage i	tumor free	NA	r0	NA	liver	alive	NA	0	2324	0	2324	0	2324	0	2324
+LIHC_41A999C7_62D5_4AB7_9CA5_F39EF96141CD_X038_S02	TCGA-LG-A9QD	lihc	68	united states	-24969	NA	366	male	no	NA	m0	n0	t3a	stage iiia	with tumor	NA	r0	NA	liver	alive	NA	0	366	0	366	0	366	0	366
+LIHC_49E8423D_5CB8_4257_9BE8_0143D787C41F_X034_S12	TCGA-DD-AACL	lihc	66	korea south	-24355	107	NA	female	NA	NA	m0	n0	t1	stage i	NA	NA	r0	NA	liver	deceased	NA	1	107	NA	107	0	107	0	107
+LIHC_51CD5E23_C95F_4399_B77F_95B4C33E9173_X030_S06	TCGA-G3-AAV0	lihc	58	canada	-21249	NA	476	male	no	NA	m0	n0	t1	stage i	tumor free	NA	r0	NA	liver	alive	NA	0	476	0	476	0	476	0	476
+LIHC_7BA22083_6B58_4B21_B764_6D1619419AAF_X025_S06	TCGA-DD-AAC8	lihc	72	korea south	-26322	16	NA	male	no	NA	m0	n0	t1	stage i	tumor free	NA	r0	NA	liver	deceased	NA	1	16	0	16	0	16	0	16
+LIHC_855E9254_23F8_426E_9A20_D4A42A2662EA_X032_S07	TCGA-CC-A123	lihc	24	NA	-9107	NA	219	female	NA	NA	m0	n0	t3	stage iiia	tumor free	NA	rx	NA	liver	alive	NA	0	219	0	219	NA	NA	1	145
+LIHC_9A74F036_42C5_44E2_8181_63D2B7526D80_X028_S12	TCGA-BC-A10X	lihc	52	united states	-19140	770	NA	female	NA	NA	mx	n0	t3a	stage iiia	tumor free	NA	r0	NA	liver	deceased	NA	1	770	0	770	0	770	0	770
+LIHC_9CFCE167_AE10_47E5_8E18_947E06323052_X026_S02	TCGA-BC-A10U	lihc	69	united states	-25305	837	NA	male	NA	NA	mx	nx	t2	NA	with tumor	NA	r1	NA	liver	deceased	NA	1	837	1	837	NA	NA	1	586
+LIHC_A4C8EBCB_C1AD_43C3_96D3_17AC788E0C9E_X042_S04	TCGA-BC-A10W	lihc	50	united states	-18562	91	NA	male	NA	NA	mx	nx	t4	NA	with tumor	NA	r1	NA	liver	deceased	NA	1	91	1	91	NA	NA	1	91
+LIHC_CA8B4E55_2856_4560_828D_C74F6F311E51_X024_S02	TCGA-BC-A10S	lihc	81	united states	-29842	1423	NA	male	NA	NA	mx	nx	t3	NA	with tumor	NA	r0	NA	liver	deceased	NA	1	1423	1	1423	1	1130	1	1130
+LIHC_DD6CCFE8_1ADB_44E7_BD44_72C3AD7FA6C5_X031_S08	TCGA-LG-A9QC	lihc	48	united states	-17842	NA	425	male	no	NA	m0	nx	t1	stage i	tumor free	NA	r0	NA	liver	alive	NA	0	425	0	425	0	425	0	425
+LIHC_E4EEC6CC_FBEB_4FEA_8D51_FB07391A9D4A_X033_S05	TCGA-BC-A5W4	lihc	69	united states	-25503	547	NA	male	no	NA	m0	nx	t3a	stage iiia	tumor free	NA	r1	NA	liver	deceased	NA	1	547	0	547	NA	NA	1	384
+LIHC_EA60FBEB_E9B9_4115_AC41_BEE17204C80C_X041_S01	TCGA-BC-A8YO	lihc	66	united states	-24189	NA	562	female	yes	NA	m0	n0	t4	stage iiic	with tumor	NA	r0	NA	liver	alive	NA	0	562	0	562	1	220	1	220
+LUAD_07B8C449_3062_436F_8274_4C27887BF8AB_X026_S01	TCGA-MP-A4T7	luad	75	united states	-27603	167	NA	female	NA	NA	m1	n0	t2	stage iv	NA	NA	r0	4	lung	deceased	NA	1	167	NA	167	NA	NA	0	167
+LUAD_18545E4A_6285_4DB7_A52C_9E12075D6B89_X033_S04	TCGA-86-A4D0	luad	48	russia	-17607	116	NA	male	no	NA	m0	n0	t2b	stage iia	tumor free	NA	r0	2	lung	deceased	NA	1	116	0	116	0	116	0	116
+LUAD_18B8C125_D05C_4AC1_A739_FCC610777B0F_X037_S01	TCGA-91-A4BD	luad	78	united states	-28544	NA	603	male	no	NA	mx	n1	t1b	stage iia	tumor free	complete remission/response	rx	3	lung	alive	NA	0	603	0	603	0	603	0	603
+LUAD_202446E0_6AF3_4F03_856A_0D60F466D2CE_X033_S08	TCGA-44-3918	luad	60	united states	-22236	NA	1036	female	NA	NA	m0	n0	t1	stage ia	tumor free	NA	r0	3	lung	alive	NA	0	1036	0	1036	1	511	1	511
+LUAD_31981D14_6717_43C6_B0F3_4D477F637E6F_X036_S09	TCGA-86-A4P7	luad	63	russia	-23330	NA	415	female	NA	NA	m0	n0	t2a	stage ib	tumor free	complete remission/response	r0	1	lung	alive	NA	0	415	0	415	0	415	0	415
+LUAD_3AD9F8C2_688A_4795_8E69_9E6CC0A239A5_X042_S06	TCGA-4B-A93V	luad	52	united states	-19035	300	NA	female	yes	NA	m0	n0	t1b	stage ia	with tumor	progressive disease	r0	4	lung	deceased	NA	1	300	1	300	NA	NA	1	251
+LUAD_48A8548F_79B1_4013_A31C_B2BFDD33F634_X004_S02	TCGA-44-A47F	luad	74	united states	-27122	NA	337	male	no	NA	m0	n1	t2b	stage iib	tumor free	complete remission/response	NA	3	lung	alive	NA	0	337	0	337	0	337	0	337
+LUAD_698EE8D8_3251_42DC_BB3B_FC3C046EC728_X002_S03	TCGA-L9-A8F4	luad	64	united states	-23617	NA	476	female	no	NA	mx	n0	t2a	stage ib	tumor free	NA	r0	2	lung	alive	NA	0	476	0	476	NA	NA	0	476
+LUAD_6C75D43E_820A_490B_8BBA_8D3DCF19ACE5_X039_S12	TCGA-MP-A4T4	luad	68	united states	-25052	2617	NA	female	NA	NA	m0	n1	t2	stage iib	NA	complete remission/response	r0	2	lung	deceased	NA	1	2617	NA	2617	0	2617	0	2617
+LUAD_79DEBC87_22F6_49D5_8EE7_C2A4B0559773_X003_S11	TCGA-44-6146	luad	64	united states	-23378	NA	728	male	NA	NA	m0	n0	t3	stage iib	tumor free	NA	NA	3	lung	alive	NA	0	728	0	728	1	631	1	631
+LUAD_7EA1F51C_B63F_4445_9BF2_62E7BA22D95A_X029_S03	TCGA-93-A4JN	luad	71	united states	-26273	NA	718	male	no	NA	m1a	n0	t2a	stage iv	with tumor	stable disease	rx	3	lung	alive	NA	0	718	0	718	NA	NA	0	718
+LUAD_84B38240_83D1_4303_89B6_FD624E2F8EB8_X035_S05	TCGA-93-A4JQ	luad	49	united states	-17951	NA	526	male	no	NA	mx	n0	t1b	stage ia	tumor free	complete remission/response	rx	3	lung	alive	NA	0	526	0	526	0	526	0	526
+LUAD_8B7E9FCA_C6CF_45A8_8A9B_646198BB6495_X032_S03	TCGA-MP-A4TE	luad	56	united states	-20627	896	NA	male	yes	NA	mx	n0	t2b	stage iia	with tumor	complete remission/response	rx	4	lung	deceased	NA	1	896	1	896	1	226	1	226
+LUAD_8DD2E6E7_E560_47C9_8967_7F376B260524_X002_S02	TCGA-49-AARO	luad	39	united states	-14527	NA	3759	female	yes	NA	mx	n0	t1a	stage ia	with tumor	complete remission/response	r0	2	lung	alive	NA	0	3759	0	3759	1	1144	1	1144
+LUAD_9B9C5C6D_1755_41CD_9BC1_BFBC5D383DE0_X001_S02	TCGA-73-A9RS	luad	41	united states	-15162	340	NA	male	yes	NA	m0	n0	t3	stage iib	with tumor	progressive disease	r0	2	lung	deceased	NA	1	340	1	340	NA	NA	1	107
+LUAD_A1ABC0B2_D7F8_45B5_B431_AE23B19B8DED_X031_S05	TCGA-MP-A4TF	luad	58	united states	-21387	336	NA	female	yes	NA	m0	n0	t2b	stage iia	with tumor	partial remission/response	r0	4	lung	deceased	NA	1	336	1	336	NA	NA	1	195
+LUAD_CA6F245B_30E0_48DE_AB15_23736E21D312_X028_S01	TCGA-86-A4P8	luad	59	united states	-21738	NA	805	female	NA	NA	mx	n2	t1b	stage iiia	NA	complete remission/response	NA	1	lung	alive	NA	0	805	0	805	0	805	0	805
+LUAD_DFDCD538_5828_437C_A2DA_E0FA86DF1577_X004_S01	TCGA-MP-A4SV	luad	67	united states	-24516	2620	NA	male	NA	NA	m0	n0	t2	stage ib	NA	complete remission/response	r0	2	lung	deceased	NA	1	2620	NA	2620	0	2620	0	2620
+LUAD_E25DF7DA_5F44_4BA5_9352_C2012B2AC18B_X038_S11	TCGA-91-A4BC	luad	59	united states	-21565	NA	44	male	NA	NA	mx	n0	t2b	stage iia	NA	NA	NA	4	lung	alive	NA	0	44	0	44	NA	NA	0	44
+LUAD_EBFDB93D_ABF0_44F5_B682_1F330405F9E9_X003_S02	TCGA-L4-A4E6	luad	67	united states	-24631	NA	435	male	no	NA	m0	n0	t1	stage ia	tumor free	complete remission/response	r0	3	lung	alive	NA	0	435	0	435	0	435	0	435
+LUAD_ECBD63B4_2B0B_4E3C_A25D_A3580CEAF276_X040_S01	TCGA-93-A4JO	luad	70	united states	-25898	33	NA	male	no	NA	mx	n0	t1a	stage ia	tumor free	NA	rx	4	lung	deceased	NA	1	33	0	33	NA	NA	0	33
+LUAD_F2B26D56_4853_423E_AC90_9DB4AD7CE9EE_X030_S03	TCGA-NJ-A4YG	luad	65	united states	-23812	NA	2261	male	no	NA	m0	n0	t2	stage ib	tumor free	NA	NA	4	lung	alive	NA	0	2261	0	2261	NA	NA	0	2261
+LUSC_19B5174F_A29F_4022_8BF8_025685B32CB8_X034_S01	TCGA-98-A53A	lusc	70	united states	-25662	552	NA	male	no	NA	m0	n0	t2a	stage ib	NA	NA	r0	2	lung	deceased	NA	1	552	NA	552	0	552	0	552
+LUSC_3453F6D2_352F_41E1_8307_382F1A2249CF_X030_S10	TCGA-O2-A52N	lusc	78	united states	-28520	1006	NA	male	no	NA	mx	n0	t2	stage i	tumor free	NA	NA	4	lung	deceased	NA	1	1006	0	1006	NA	NA	0	1006
+LUSC_3780DC14_9D74_4BE6_9B91_D425244D1653_X028_S09	TCGA-85-A50M	lusc	47	vietnam	-17429	826	NA	male	no	NA	m0	n0	t2b	stage iia	tumor free	NA	r0	4	lung	deceased	NA	1	826	0	826	0	826	0	826
+LUSC_37DBAF18_D34C_40CE_AB6B_F9C136FE6271_X036_S02	TCGA-37-A5EM	lusc	49	russia	-18011	NA	867	male	no	NA	m0	n0	t2	stage ii	tumor free	complete remission/response	NA	NA	lung	alive	NA	0	867	0	867	0	867	0	867
+LUSC_3AD1EA06_AA53_4C53_B436_4417FA2B8A0E_X031_S10	TCGA-85-A4JB	lusc	74	romania	-27315	NA	942	male	NA	NA	m0	n0	t3	stage iib	tumor free	complete remission/response	r0	2	lung	alive	NA	0	942	0	942	0	942	0	942
+LUSC_3E7D3CAA_ABD3_433A_8A2D_E301AF1AC735_X035_S04	TCGA-J1-A4AH	lusc	70	united states	-25893	NA	581	male	no	NA	mx	n0	t2b	stage iia	tumor free	complete remission/response	r0	4	lung	alive	NA	0	581	0	581	0	581	0	581
+LUSC_4F3028BD_96C0_4207_B1CC_6EFC91D9125D_X041_S10	TCGA-85-A4CN	lusc	56	romania	-20490	NA	1038	female	no	NA	m0	n1	t2b	stage iib	tumor free	complete remission/response	r0	4	lung	alive	NA	0	1038	0	1038	0	1038	0	1038
+LUSC_5AC6ED60_B4C0_42C1_BAB1_A173859818AE_X025_S04	TCGA-77-A5G6	lusc	66	australia	-24215	678	NA	male	yes	NA	m0	n2	t2	stage iiia	with tumor	complete remission/response	r0	2	lung	deceased	NA	1	678	1	678	1	392	1	392
+LUSC_67CCECB1_91AF_4986_B16B_75803C469F29_X038_S06	TCGA-63-A5MR	lusc	70	canada	-25879	NA	2716	female	no	NA	m0	n0	t2	stage ib	tumor free	complete remission/response	r0	4	lung	alive	NA	0	2716	0	2716	0	2716	0	2716
+LUSC_8C8D4BD8_7F67_421F_BAB4_21D157B4F4AA_X032_S08	TCGA-33-A4WN	lusc	60	united states	-22268	143	NA	male	no	NA	mx	n0	t2a	stage ib	tumor free	complete remission/response	r0	2	lung	deceased	NA	1	143	0	143	0	143	0	143
+LUSC_A81EDD99_26C1_4F2D_A67D_86E945AC532B_X037_S05	TCGA-98-A53J	lusc	77	united states	-28485	NA	630	male	no	NA	m0	n0	t2a	stage ib	tumor free	complete remission/response	r0	3	lung	alive	NA	0	630	0	630	0	630	0	630
+LUSC_A834F34C_1FA7_45E9_B9A6_F6AC7D663F87_X027_S02	TCGA-85-A4CL	lusc	65	ukraine	-24005	921	NA	male	NA	NA	m0	n0	t1b	stage ia	tumor free	NA	r0	2	lung	deceased	NA	1	921	0	921	0	921	0	921
+LUSC_BC1759C1_171F_4663_83C6_52AC28059A9B_X040_S06	TCGA-85-A4QR	lusc	67	ukraine	-24756	NA	600	male	NA	NA	m0	n0	t2a	stage ib	tumor free	NA	r0	4	lung	alive	NA	0	600	0	600	0	600	0	600
+LUSC_E6A5E1D5_E23C_4C9E_A4E8_5A399AD0660E_X024_S06	TCGA-XC-AA0X	lusc	77	united states	-28211	6	NA	female	no	NA	m0	n0	t1a	stage ia	tumor free	NA	r0	2	lung	deceased	NA	1	6	0	6	NA	NA	0	6
+LUSC_E6E5C1B0_56E7_4EF7_A54C_CFFF60873272_X039_S07	TCGA-MF-A522	lusc	54	united states	-20051	360	NA	male	no	NA	mx	n0	t2a	stage ib	NA	NA	NA	4	lung	deceased	NA	1	360	1	360	NA	NA	1	173
+LUSC_F57C391B_F43A_4E31_B666_4C2329037C06_X039_S11	TCGA-85-A512	lusc	46	russia	-16811	NA	465	male	NA	NA	m0	n1	t1b	stage iia	tumor free	NA	r0	2	lung	alive	NA	0	465	0	465	0	465	0	465
+MESO_1BB791A0_A0DD_407E_9CF7_C1057DAB6589_X032_S05	TCGA-MQ-A4KX	meso	55	united states	-20336	2459	NA	male	yes	NA	m0	n0	t1	stage i	NA	NA	r0	NA	pleura	deceased	NA	1	2459	NA	2459	1	471	1	471
+MESO_1C3AE5C2_83C6_49F9_A008_9202D4788E07_X033_S01	TCGA-LK-A4NW	meso	60	united states	-21922	546	NA	male	no	NA	m0	n2	t4	stage iv	with tumor	NA	rx	NA	pleura	deceased	NA	1	546	1	546	NA	NA	1	546
+MESO_2470AFE9_83F2_4F12_BE76_F26F4BA6B974_X035_S01	TCGA-LK-A4NY	meso	66	united states	-24391	168	NA	female	no	NA	m0	n0	t3	stage iii	tumor free	NA	r0	NA	pleura	deceased	NA	1	168	0	168	0	168	0	168
+MESO_4D0379C7_08E5_4F3D_852A_7F0454C6E192_X030_S11	TCGA-SH-A9CU	meso	60	united kingdom	-22135	732	NA	male	no	NA	m0	n2	t4	stage iv	with tumor	NA	rx	NA	pleura	deceased	NA	1	732	1	732	NA	NA	1	732
+MESO_E63A7EB2_8F27_499E_B9BF_92A8400388D6_X039_S01	TCGA-LK-A4O6	meso	66	united states	-24449	448	NA	female	no	NA	m0	n1	t3	stage iii	with tumor	NA	rx	NA	pleura	deceased	NA	1	448	1	448	NA	NA	1	448
+MESO_E74BDC00_E094_44E8_9F4A_EB4038306740_X036_S10	TCGA-3U-A98I	meso	68	united states	-25108	860	NA	male	yes	NA	m0	n3	t4	stage iv	with tumor	NA	NA	NA	pleura	deceased	NA	1	860	1	860	NA	NA	1	404
+MESO_F3321D8C_8D46_4877_A9A9_6B4DDA86E2A0_X040_S12	TCGA-3U-A98E	meso	71	united states	-26264	NA	1916	female	yes	NA	m0	n2	t4	stage iv	with tumor	NA	NA	NA	pleura	alive	NA	0	1916	0	1916	NA	NA	1	1257
+PCPG_007124EC_1F9B_4FCB_BC6E_DB8C25FD9146_X033_S03	TCGA-RM-A68W	pcpg	41	united states	-15273	NA	28	female	no	NA	NA	NA	NA	NA	tumor free	complete remission/response	NA	NA	extra-adrenal site	alive	NA	0	28	0	28	0	28	0	28
+PCPG_172D2D46_36AD_49CF_A4CB_BCE28B8CDA13_X026_S12	TCGA-QT-A69Q	pcpg	40	united states	-14866	NA	24	male	no	1	NA	NA	NA	NA	tumor free	complete remission/response	NA	NA	adrenal gland	alive	NA	0	24	0	24	0	24	0	24
+PCPG_3D543A8C_2366_4C7D_B8C2_2438E7B2A13F_X038_S04	TCGA-RT-A6YA	pcpg	71	united states	-26095	NA	1540	female	no	NA	NA	NA	NA	NA	tumor free	complete remission/response	NA	NA	adrenal gland	alive	NA	0	1540	0	1540	0	1540	0	1540
+PCPG_6E12D868_CE35_491E_8811_263F1537B7FD_X036_S12	TCGA-TT-A6YP	pcpg	19	united states	-7240	NA	1292	female	no	NA	NA	NA	NA	NA	tumor free	complete remission/response	NA	NA	adrenal gland	alive	NA	0	1292	0	1292	0	1292	0	1292
+PCPG_76EE6592_FC58_4EBA_8E1E_6B5B937A4D9B_X029_S01	TCGA-QT-A5XN	pcpg	51	united states	-18812	NA	766	female	no	NA	NA	NA	NA	NA	tumor free	complete remission/response	NA	NA	adrenal gland	alive	NA	0	766	0	766	0	766	0	766
+PCPG_7C5C19DE_54FA_4DE8_B87F_7694F5B50F41_X037_S03	TCGA-RW-A8AZ	pcpg	66	united states	-24268	88	NA	male	no	4	NA	NA	NA	NA	tumor free	NA	NA	NA	adrenal gland	deceased	NA	1	88	0	88	NA	NA	0	88
+PCPG_BC53E760_C528_4E00_95C4_B58EC4745512_X040_S08	TCGA-QT-A5XM	pcpg	43	united states	-15915	NA	22	male	no	NA	NA	NA	NA	NA	tumor free	complete remission/response	NA	NA	adrenal gland	alive	NA	0	22	0	22	0	22	0	22
+PCPG_BF252877_E0B6_4B37_B080_3F4C0BCBDFF6_X028_S03	TCGA-QT-A5XJ	pcpg	42	united states	-15535	NA	1102	female	yes	15	NA	NA	NA	NA	with tumor	progressive disease	NA	NA	adrenal gland	alive	NA	0	1102	0	1102	NA	NA	1	77
+PCPG_F29BD6FA_566B_4459_97F8_9C4BDEABEC3E_X032_S10	TCGA-WB-A818	pcpg	37	france	-13596	NA	1288	male	no	NA	NA	NA	NA	NA	tumor free	complete remission/response	NA	NA	adrenal gland	alive	NA	0	1288	0	1288	0	1288	0	1288
+PRAD_178E3984_9A7E_4683_8F3E_AB3814DD4880_X026_S10	TCGA-EJ-7318	prad	51	united states	-18686	NA	1029	male	yes	NA	NA	NA	t3a	NA	with tumor	partial remission/response	r0	NA	prostate	alive	NA	0	1029	0	1029	NA	NA	1	380
+PRAD_1D2771DB_CB6D_4012_BABC_5962CBDB2278_X040_S09	TCGA-YL-A8SL	prad	74	NA	-27033	NA	987	male	no	NA	NA	n1	t3b	NA	tumor free	complete remission/response	r0	NA	prostate	alive	NA	0	987	0	987	0	987	0	987
+PRAD_1FB2E3C9_F5E7_4164_BB70_2272B373473A_X037_S12	TCGA-ZG-A9L0	prad	71	germany	-26055	NA	355	male	NA	NA	NA	n1	t3b	NA	tumor free	NA	r1	NA	prostate	alive	NA	0	355	0	355	NA	NA	0	355
+PRAD_24ED77D1_86DE_4B0A_A993_33D647818D84_X032_S04	TCGA-VN-A88K	prad	58	united states	-21524	NA	776	male	no	NA	NA	n1	t3a	NA	NA	complete remission/response	r0	NA	prostate	alive	NA	0	776	0	776	0	776	0	776
+PRAD_26CBC4A0_77A9_4574_9D1E_10315A31BED7_X029_S07	TCGA-YL-A9WK	prad	63	canada	-23272	NA	2136	male	yes	NA	NA	n0	t3b	NA	with tumor	stable disease	r1	NA	prostate	alive	NA	0	2136	0	2136	NA	NA	1	1009
+PRAD_39BCC794_CD38_4D22_8DC8_EF19373B53A3_X034_S06	TCGA-ZG-A9L1	prad	66	germany	-24214	NA	1302	male	no	NA	NA	n1	t3b	NA	with tumor	partial remission/response	r1	NA	prostate	alive	NA	0	1302	0	1302	NA	NA	0	1302
+PRAD_3C129F3A_8168_47D9_8D38_8959B788B123_X034_S03	TCGA-EJ-A46B	prad	66	united states	-24305	NA	657	male	no	NA	NA	n0	t3a	NA	tumor free	complete remission/response	r0	NA	prostate	alive	NA	0	657	0	657	0	657	0	657
+PRAD_49BC4035_EB29_4AFE_838F_271AC1B3D2BC_X042_S01	TCGA-EJ-A46H	prad	60	united states	-22059	NA	724	male	no	NA	NA	n0	t2c	NA	tumor free	complete remission/response	r0	NA	prostate	alive	NA	0	724	0	724	0	724	0	724
+PRAD_4B159A90_F1FF_4FC4_8271_5AF6072F7EE4_X029_S12	TCGA-ZG-A9L2	prad	70	germany	-25573	NA	1154	male	yes	NA	NA	n0	t3b	NA	with tumor	stable disease	r1	NA	prostate	alive	NA	0	1154	0	1154	NA	NA	1	180
+PRAD_4EB4F860_74BC_4A05_95A9_F97827BDA17C_X041_S03	TCGA-EJ-A46G	prad	71	united states	-26219	NA	668	male	no	NA	NA	n0	t3a	NA	tumor free	complete remission/response	r0	NA	prostate	alive	NA	0	668	0	668	0	668	0	668
+PRAD_53DF2155_A6B0_46AC_A21B_288784A53914_X038_S01	TCGA-EJ-A46E	prad	57	united states	-21054	NA	524	male	no	NA	NA	n0	NA	NA	tumor free	complete remission/response	r0	NA	prostate	alive	NA	0	524	0	524	0	524	0	524
+PRAD_61B4E703_CEB4_4117_9977_134941FD583F_X025_S08	TCGA-EJ-A7NG	prad	64	united states	-23458	NA	432	male	no	NA	NA	n0	t3a	NA	tumor free	complete remission/response	r0	NA	prostate	alive	NA	0	432	0	432	0	432	0	432
+PRAD_6FF51A3D_B6AE_46F8_9A71_15AE21CF8C31_X031_S02	TCGA-YL-A8SB	prad	62	canada	-22991	NA	1719	male	no	NA	NA	n0	t3a	NA	NA	stable disease	r1	NA	prostate	alive	NA	0	1719	0	1719	NA	NA	1	1384
+PRAD_7CE08E8F_38F0_4FE5_9446_865E105997E1_X036_S07	TCGA-VP-A875	prad	67	united states	-24742	NA	2309	male	no	NA	NA	n0	t3a	NA	NA	complete remission/response	r0	NA	prostate	alive	NA	0	2309	0	2309	0	2309	0	2309
+PRAD_8D256ADA_92B7_437E_8D09_4791A113D7C1_X024_S03	TCGA-EJ-A8FN	prad	58	united states	-21506	NA	329	male	no	NA	NA	n0	t2c	NA	tumor free	complete remission/response	r0	NA	prostate	alive	NA	0	329	0	329	0	329	0	329
+PRAD_90DF4FA1_85C0_4320_ADC5_9AFBAB6992D5_X038_S12	TCGA-EJ-A46F	prad	57	united states	-21160	NA	783	male	yes	NA	NA	n1	t3b	NA	tumor free	partial remission/response	r0	NA	prostate	alive	NA	0	783	0	783	NA	NA	1	215
+PRAD_A46AA022_8396_4DBE_9DB0_EF5D4D13EBFB_X040_S10	TCGA-YL-A8SP	prad	58	NA	-21455	NA	2366	male	no	NA	NA	NA	t3b	NA	with tumor	stable disease	r1	NA	prostate	alive	NA	0	2366	0	2366	NA	NA	1	2036
+PRAD_B06E11EC_7D3E_4BFC_9D3F_33877A4D9E66_X028_S10	TCGA-YL-A8HJ	prad	58	canada	-21416	NA	1611	male	no	NA	NA	NA	t3b	NA	tumor free	complete remission/response	r0	NA	prostate	alive	NA	0	1611	0	1611	0	1611	0	1611
+PRAD_BDFE10D1_4C84_446B_B962_20985B57AE5D_X033_S11	TCGA-SU-A7E7	prad	60	moldova	-22185	NA	551	male	no	NA	NA	n0	t2b	NA	tumor free	complete remission/response	r0	NA	prostate	alive	NA	0	551	0	551	0	551	0	551
+PRAD_C276D64C_147B_4F15_A27E_A8068FB06146_X025_S09	TCGA-EJ-A7NM	prad	64	united states	-23603	NA	128	male	no	NA	NA	n1	t3b	NA	tumor free	complete remission/response	r0	NA	prostate	alive	NA	0	128	0	128	0	128	0	128
+PRAD_C28DF709_212E_4835_AD1E_234A05480083_X035_S08	TCGA-EJ-A65F	prad	59	united states	-21681	NA	560	male	yes	NA	NA	n0	t3b	NA	with tumor	progressive disease	r0	NA	prostate	alive	NA	0	560	0	560	NA	NA	1	75
+PRAD_C4C5514D_2C9F_412B_AB0F_7286EA248D0A_X030_S07	TCGA-EJ-A46D	prad	53	united states	-19466	NA	626	male	no	NA	NA	n0	t2c	NA	tumor free	complete remission/response	NA	NA	prostate	alive	NA	0	626	0	626	0	626	0	626
+PRAD_C52513D1_8E67_419B_BC8F_D719459735F9_X030_S08	TCGA-KC-A4BV	prad	66	united states	-24138	NA	1328	male	yes	NA	NA	n0	t3a	NA	with tumor	complete remission/response	r0	NA	prostate	alive	NA	0	1328	0	1328	1	1328	1	1328
+PRAD_F160CE71_20EB_48FB_B28D_C7BA4E926F0B_X039_S06	TCGA-EJ-A65B	prad	55	united states	-20204	NA	710	male	no	NA	NA	n0	t3b	NA	tumor free	complete remission/response	r1	NA	prostate	alive	NA	0	710	0	710	0	710	0	710
+PRAD_FE4D9D9C_7794_4E71_B168_469AE41B08E6_X033_S09	TCGA-EJ-7218	prad	71	united states	-26181	NA	2542	male	no	NA	NA	n0	t2c	NA	tumor free	complete remission/response	r0	NA	prostate	alive	NA	0	2542	0	2542	0	2542	0	2542
+PRAD_FFB6C615_9A10_4E15_A662_EE808FDE451E_X031_S12	TCGA-EJ-A8FP	prad	59	united states	-21769	NA	299	male	yes	NA	NA	n0	t2c	NA	with tumor	complete remission/response	r0	NA	prostate	alive	NA	0	299	0	299	1	117	1	117
+SKCM_0852FA43_7577_4456_8033_9A9156A7B258_X032_S12	TCGA-DA-A95Y	skcm	68	united states	-25083	430	NA	male	no	NA	m0	n0	t4b	stage iic	with tumor	NA	NA	NA	regional lymph node	deceased	NA	1	430	1	430	NA	NA	1	338
+SKCM_211D9CF4_3348_4DCD_8A01_6827435DDB3D_X029_S10	TCGA-EB-A5KH	skcm	55	vietnam	-20424	619	NA	male	no	NA	m0	n1	t0	stage iii	NA	NA	NA	NA	regional lymph node	deceased	NA	1	619	0	619	NA	NA	0	619
+SKCM_398F831B_A6C7_40D9_9EC4_16CECA35AEA2_X039_S02	TCGA-D9-A6EA	skcm	70	poland	-25582	NA	766	male	NA	NA	m0	n3	t4a	stage iiic	tumor free	NA	NA	NA	NA	alive	NA	0	766	0	766	NA	NA	0	766
+SKCM_4EDE1486_22DD_4DB9_8CB1_B4A058E459D1_X035_S10	TCGA-EB-A3Y6	skcm	NA	ukraine	-20605	NA	NA	NA	no	NA	NA	NA	NA	NA	tumor free	NA	NA	NA	primary tumor	alive	NA	0	126	0	126	NA	NA	0	126
+SKCM_79ECCC2A_6352_43BB_AF79_FABC426586EB_X040_S05	TCGA-EB-A3XF	skcm	NA	ukraine	-20910	NA	NA	NA	no	NA	NA	NA	NA	NA	tumor free	NA	NA	NA	primary tumor	alive	NA	0	278	0	278	NA	NA	0	278
+SKCM_8F708E04_2936_4E85_85C2_D1431003898B_X025_S11	TCGA-EB-A5SH	skcm	60	russia	-21920	NA	1643	female	yes	NA	m0	n0	t4	stage iii	tumor free	NA	NA	NA	regional lymph node	alive	NA	0	1643	0	1643	NA	NA	1	1065
+SKCM_ADDDF130_3C88_413F_9C74_2EA68EA26E0C_X030_S05	TCGA-XV-AAZY	skcm	NA	russia	-27938	NA	NA	NA	NA	NA	NA	NA	NA	NA	tumor free	NA	NA	NA	primary tumor	alive	NA	0	405	0	405	NA	NA	0	405
+SKCM_E6A09E0C_BC0B_4F10_92FA_5B6826A4F336_X024_S11	TCGA-EB-A24C	skcm	NA	ukraine	-20539	NA	NA	NA	no	NA	NA	NA	NA	NA	tumor free	NA	NA	NA	primary tumor	alive	NA	0	632	0	632	NA	NA	1	465
+SKCM_F05B8E69_5AD9_4FCF_8980_1307F35BD173_X026_S09	TCGA-DA-A95W	skcm	52	united states	-19105	NA	1136	male	no	NA	m0	n1b	tx	stage iiib	tumor free	NA	NA	NA	regional lymph node	alive	NA	0	1136	0	1136	NA	NA	0	1136
+SKCM_F15664E6_AE19_4B59_971A_8FC8E05CF921_X037_S11	TCGA-D9-A6EC	skcm	56	poland	-20493	NA	2359	male	no	NA	m0	n1	t3a	stage iiia	tumor free	NA	NA	NA	regional lymph node	alive	NA	0	2359	0	2359	NA	NA	0	2359
+SKCM_F318F3E5_E6BE_4CBB_977A_ABE202DCE9EA_X033_S10	TCGA-D9-A1JW	skcm	82	poland	-30142	NA	111	male	yes	NA	m0	n2a	t1a	NA	NA	NA	NA	NA	regional lymph node	alive	NA	0	111	0	111	NA	NA	1	10
+SKCM_FDA487D2_5293_4315_9212_3836856CCFFB_X041_S04	TCGA-D3-A8GP	skcm	77	united states	-28234	NA	4646	male	yes	NA	m0	n2c	t2	stage iii	tumor free	NA	NA	NA	distant metastasis	alive	NA	0	4646	0	4646	NA	NA	1	535
+SKCM_FE986D7E_FB8B_4B58_A50C_CAED05FFCAA5_X038_S10	TCGA-D3-A8GM	skcm	73	united states	-26782	3259	NA	male	yes	NA	m0	n0	t3b	stage iib	tumor free	NA	NA	NA	regional lymph node	deceased	NA	1	3259	0	3259	NA	NA	0	3259
+STAD_00DFAA4D_DE64_4476_9546_18E728653046_X029_S06	TCGA-BR-A4J1	stad	63	vietnam	-23266	22	NA	male	NA	5	m0	n1	t4a	stage iiia	NA	NA	r0	NA	stomach	deceased	NA	1	22	NA	22	NA	NA	0	22
+STAD_0215A386_9440_452B_9832_B64A80AA8898_X030_S04	TCGA-BR-A4J9	stad	55	ukraine	-20093	NA	14	male	NA	10	m0	n0	t3	stage iia	tumor free	NA	r0	NA	stomach	alive	NA	0	14	0	14	0	14	0	14
+STAD_074F7FDD_B91D_4302_8248_B3FAA12A2451_X031_S11	TCGA-VQ-A94O	stad	74	brazil	-27306	640	NA	male	yes	67	m0	n3	t4a	stage iiic	with tumor	progressive disease	r0	NA	stomach	deceased	NA	1	640	1	640	NA	NA	1	185
+STAD_1648A422_0188_460C_B462_BEA69640D682_X025_S07	TCGA-BR-A4J4	stad	39	vietnam	-14459	NA	16	male	NA	3	m0	n2	t4a	stage iiib	tumor free	NA	r0	NA	stomach	alive	NA	0	16	0	16	NA	NA	0	16
+STAD_2A8C4C35_D8EA_4423_9ECA_D0612BC1C647_X036_S11	TCGA-BR-A4J2	stad	70	vietnam	-25891	NA	431	male	NA	8	m0	n0	t4a	stage iib	tumor free	NA	r0	NA	stomach	alive	NA	0	431	0	431	0	431	0	431
+STAD_2C565D47_79DA_4384_81CE_545B01C56A16_X038_S08	TCGA-VQ-A91W	stad	30	brazil	-10963	NA	1851	male	NA	25	m0	n1	t3	stage iiia	NA	complete remission/response	r0	NA	stomach	alive	NA	0	1851	0	1851	0	1851	0	1851
+STAD_2DE93632_B991_41E8_905F_E901C64949A4_X026_S07	TCGA-HF-A5NB	stad	75	canada	-27676	NA	928	female	no	26	m0	n3a	t4a	stage iiic	tumor free	complete remission/response	r1	NA	stomach	alive	NA	0	928	0	928	0	928	0	928
+STAD_3391F99D_E7C9_4AE9_B5F9_2701555DC3A4_X024_S08	TCGA-CD-A48C	stad	79	vietnam	-29203	353	NA	female	no	NA	m0	n1	t3	stage iib	tumor free	complete remission/response	NA	NA	stomach	deceased	NA	1	353	1	353	1	230	1	230
+STAD_78ACDA82_EAB2_4188_9631_A23425981D92_X028_S05	TCGA-BR-A4J6	stad	69	ukraine	-25279	NA	20	female	NA	10	m0	n0	t3	stage iia	tumor free	NA	r0	NA	stomach	alive	NA	0	20	0	20	0	20	0	20
+STAD_8246817A_8A76_4010_AFE7_991C772B2B77_X039_S10	TCGA-BR-A452	stad	57	vietnam	-21107	229	NA	male	no	4	m0	n1	t4a	stage iiia	tumor free	NA	r0	NA	stomach	deceased	NA	1	229	0	229	0	229	0	229
+STAD_91C7155F_8187_4688_BEAB_C4179C786667_X029_S08	TCGA-D7-A4YX	stad	63	poland	-23249	NA	1108	male	no	19	m0	n1	t3	stage iib	tumor free	complete remission/response	r0	NA	stomach	alive	NA	0	1108	0	1108	0	1108	0	1108
+STAD_96AC922D_69D3_4297_BCF5_7B37B160078B_X035_S12	TCGA-VQ-A91E	stad	67	brazil	-24549	NA	664	female	no	29	m0	n0	t4b	stage iiib	tumor free	complete remission/response	r0	NA	stomach	alive	NA	0	664	0	664	0	664	0	664
+STAD_BAB7D0D7_4F14_4ED4_B8E4_B9E760F57246_X041_S02	TCGA-CD-A486	stad	68	vietnam	-24879	192	NA	male	no	NA	m0	n0	t3	stage iia	tumor free	complete remission/response	NA	NA	stomach	deceased	NA	1	192	1	192	1	79	1	79
+STAD_BBB7AC74_B4E3_482C_BFA5_86555CE18654_X027_S08	TCGA-BR-A4CR	stad	70	russia	-25669	NA	NA	female	no	8	m0	n3a	t4b	stage iiic	tumor free	NA	r0	NA	stomach	alive	NA	0	0	0	0	0	0	0	0
+STAD_C23BE39C_3C24_4DB8_B26D_CE6629CF02EC_X042_S05	TCGA-VQ-A8PJ	stad	53	brazil	-19390	82	NA	male	no	24	m1	n2	t4	stage iv	with tumor	progressive disease	r2	NA	stomach	deceased	NA	1	82	1	82	NA	NA	1	82
+STAD_C6252D6A_38B3_4A09_9B2F_185F8FB36EBE_X037_S02	TCGA-BR-A4IY	stad	58	vietnam	-21314	NA	392	male	NA	8	m0	n0	t4a	stage iib	tumor free	NA	r0	NA	stomach	alive	NA	0	392	0	392	0	392	0	392
+STAD_CEF81A6C_B09A_4698_BC93_DC029B9CA17A_X028_S06	TCGA-BR-A4QL	stad	75	ukraine	-27668	491	NA	female	no	10	m0	n3a	t3	stage iiib	tumor free	complete remission/response	r0	NA	stomach	deceased	NA	1	491	0	491	0	491	0	491
+STAD_D1C43A87_4C70_4AE9_9023_880A46E79F21_X037_S09	TCGA-BR-A4J5	stad	56	vietnam	-20714	NA	862	male	NA	5	m0	n1	t4a	stage iiia	tumor free	NA	r0	NA	stomach	alive	NA	0	862	0	862	0	862	0	862
+STAD_D8BEB0DD_C346_4C1D_8A5F_6E669453AE6D_X027_S09	TCGA-BR-A4CS	stad	77	russia	-28211	45	NA	male	no	15	m0	n3a	t4b	stage iiic	tumor free	NA	r0	NA	stomach	deceased	NA	1	45	0	45	0	45	0	45
+STAD_E07AAE91_7A4F_4FDC_9D67_4FA1D4E6DD89_X024_S05	TCGA-D7-A6EZ	stad	66	poland	-24425	618	NA	male	no	17	m0	n2	t3	stage iiia	tumor free	complete remission/response	r0	NA	stomach	deceased	NA	1	618	1	618	NA	NA	1	618
+STAD_EA9A5DB6_348F_41C4_ACCC_5717653ABD74_X032_S06	TCGA-BR-A4J7	stad	49	vietnam	-17932	NA	989	male	NA	NA	m0	nx	t4a	stage iib	tumor free	NA	r0	NA	stomach	alive	NA	0	989	0	989	0	989	0	989
+TGCT_09E99DFE_D6FF_46DA_8DB4_AEEE237A6FE0_X028_S07	TCGA-2G-AAGS	tgct	39	netherlands	-14312	NA	4816	male	no	NA	m0	n1	t1	stage iiib	tumor free	NA	NA	NA	testes	alive	NA	0	4816	0	4816	0	4816	0	4816
+TGCT_0A0512E8_AD96_4154_AAA2_3BDD67A279E9_X035_S11	TCGA-XE-AAOF	tgct	50	united states	-18490	NA	1268	male	no	NA	m0	nx	t1	stage ia	tumor free	NA	NA	NA	testes	alive	NA	0	1268	0	1268	0	1268	0	1268
+TGCT_1577A485_E047_42CF_8703_42A69E1AED1A_X038_S09	TCGA-XE-AANI	tgct	37	united states	-13553	NA	1041	male	no	NA	m0	nx	t1	is	tumor free	NA	NA	NA	testes	alive	NA	0	1041	0	1041	0	1041	0	1041
+TGCT_1733145A_1C7A_49A1_BCA7_7B72F7C8FFE7_X024_S09	TCGA-2G-AAKG	tgct	22	netherlands	-8353	NA	6598	male	yes	NA	m0	n0	t1	stage i	tumor free	NA	NA	NA	testes	alive	NA	0	6598	0	6598	1	122	1	122
+TGCT_42AA9956_CB47_4A45_8B3E_BCA4A1560649_X025_S03	TCGA-2G-AAFM	tgct	31	netherlands	-11607	NA	503	male	no	NA	m0	n1	t2	stage iia	tumor free	NA	NA	NA	testes	alive	NA	0	503	0	503	0	503	0	503
+TGCT_772E7A97_0B2F_4DE7_B44B_E233EA5ACA5C_X027_S05	TCGA-XE-AAOD	tgct	39	united states	-14265	NA	2058	male	no	NA	m0	nx	t2	stage ib	tumor free	NA	NA	NA	testes	alive	NA	0	2058	0	2058	0	2058	0	2058
+TGCT_915BF6AB_D5A9_44A6_8913_DE735A3A32CA_X041_S09	TCGA-2G-AAFO	tgct	33	netherlands	-12298	NA	685	male	no	NA	m0	n1	t1	stage iia	tumor free	NA	NA	NA	testes	alive	NA	0	685	0	685	0	685	0	685
+TGCT_A3208F24_8F24_43B5_99C5_E4A3CA68026C_X026_S11	TCGA-4K-AA1I	tgct	26	russia	-9679	NA	3	male	NA	NA	m0	n0	t1	stage ia	tumor free	NA	NA	NA	testes	alive	NA	0	3	0	3	NA	NA	0	3
+TGCT_A6AB6BA9_2EE3_4919_B524_65C2F7B6A052_X034_S04	TCGA-2G-AAH8	tgct	45	netherlands	-16687	NA	2248	male	no	NA	m0	nx	t2	stage iiic	tumor free	NA	NA	NA	testes	alive	NA	0	2248	0	2248	NA	NA	0	2248
+THCA_073FEB53_ADC5_4B5B_8D4B_9D6692AE996F_X032_S11	TCGA-BJ-A290	thca	70	united states	-25803	NA	919	male	NA	3	m0	n1a	t3	stage iii	with tumor	NA	NA	NA	thyroid	alive	NA	0	919	0	919	NA	NA	1	329
+THCA_2035B22F_A9D8_4608_8B54_5146EC5CE76B_X029_S05	TCGA-4C-A93U	thca	74	united states	-27348	NA	129	female	no	41	m0	n1b	t4a	stage iva	tumor free	NA	r0	NA	thyroid	alive	NA	0	129	0	129	NA	NA	0	129
+THCA_3E77F455_8BCF_4C61_9B4D_E56EC829241A_X042_S08	TCGA-DJ-A13X	thca	51	united states	-18689	NA	253	female	NA	1	m0	n0	t3	stage iii	tumor free	NA	r0	NA	thyroid	alive	NA	0	253	0	253	0	253	0	253
+THCA_4589BD8A_FCEA_4968_939B_4C3960C48AB1_X028_S08	TCGA-BJ-A0Z2	thca	57	united states	-21008	NA	1514	male	NA	NA	m1	n0	t2	stage ivc	with tumor	NA	rx	NA	thyroid	alive	NA	0	1514	0	1514	NA	NA	1	158
+THCA_5040673F_93A4_48BC_A015_D0DA9C69F0B4_X027_S07	TCGA-BJ-A3PU	thca	52	united states	-19007	NA	567	male	yes	7	m0	n1a	t3	stage iii	with tumor	NA	r0	NA	thyroid	alive	NA	0	567	0	567	1	174	1	174
+THCA_5BD43F10_0990_41B4_AD7A_741949D128A0_X033_S02	TCGA-BJ-A192	thca	54	united states	-19878	NA	1349	female	NA	NA	m0	nx	t3	stage iii	NA	NA	rx	NA	thyroid	alive	NA	0	1349	0	1349	NA	NA	0	1349
+THCA_8084B582_941C_4F46_B2E6_6B6AE35989FC_X035_S06	TCGA-DJ-A13V	thca	21	united states	-7915	NA	1313	female	NA	20	m0	n1a	t3	stage i	with tumor	NA	r0	NA	thyroid	alive	NA	0	1313	0	1313	0	1313	0	1313
+THCA_8681469D_66FB_4E67_9AD9_BEAE596F7BF5_X041_S06	TCGA-BJ-A0ZA	thca	67	united states	-24528	NA	574	female	NA	2	m0	n0	t2	stage ii	tumor free	NA	r0	NA	thyroid	alive	NA	0	574	0	574	0	574	0	574
+THCA_ABF4154C_FACF_4711_AAC7_35C560F39BC2_X024_S10	TCGA-BJ-A0Z0	thca	55	united states	-20361	NA	419	male	NA	5	mx	n0	t2	stage ii	tumor free	NA	r0	NA	thyroid	alive	NA	0	419	0	419	0	419	0	419
+THCA_BC2421A1_70FD_4F62_8E12_956AE8472E0C_X036_S03	TCGA-BJ-A0ZC	thca	55	united states	-20282	NA	352	male	NA	NA	m0	n0	t1	stage i	tumor free	NA	r0	NA	thyroid	alive	NA	0	352	0	352	0	352	0	352
+THCA_C28B747E_CFB2_4ED4_9821_9964A342DAA6_X026_S04	TCGA-CE-A13K	thca	30	vietnam	-11122	NA	385	female	NA	2	m0	n1	t3	stage i	tumor free	NA	r0	NA	thyroid	alive	NA	0	385	0	385	0	385	0	385
+THCA_DDA40F94_13CA_4BE0_9DB1_D7F14AC9EACA_X030_S09	TCGA-BJ-A0Z5	thca	58	united states	-21369	NA	448	male	NA	5	m0	n1a	t3	stage iii	tumor free	NA	NA	NA	thyroid	alive	NA	0	448	0	448	NA	NA	0	448
+THCA_EB01542B_2A13_4D7B_82A9_CE37B2D54BA3_X031_S03	TCGA-BJ-A0Z3	thca	33	united states	-12295	NA	497	female	NA	3	m0	n0	t1	stage i	tumor free	NA	rx	NA	thyroid	alive	NA	0	497	0	497	NA	NA	0	497
+THCA_F8168297_C181_408B_8F2F_1F7AB849F1C5_X025_S10	TCGA-DJ-A13M	thca	28	united states	-10530	NA	1484	female	NA	5	m0	n0	t1b	stage i	tumor free	NA	r0	NA	thyroid	alive	NA	0	1484	0	1484	0	1484	0	1484
+UCEC_1D6B31A2_8276_4ADB_BAD3_1659E7AE8C15_X032_S01	TCGA-BK-A0C9	ucec	57	NA	-20876	NA	1092	female	NA	NA	NA	NA	NA	NA	tumor free	NA	r0	NA	endometrial	alive	NA	0	1092	0	1092	0	1092	0	1092
+UCEC_29305CFF_69CB_4F68_8FA8_F1D9D7F605B9_X035_S07	TCGA-B5-A0JN	ucec	84	united states	-30933	NA	2445	female	NA	NA	NA	NA	NA	NA	tumor free	NA	NA	NA	endometrial	alive	NA	0	2445	0	2445	NA	NA	0	2445
+UCEC_392EE08A_B49B_4257_BCBC_B3038B7174A8_X041_S11	TCGA-B5-A0KB	ucec	62	NA	-22669	NA	824	female	NA	NA	NA	NA	NA	NA	tumor free	NA	NA	NA	endometrial	alive	NA	0	824	0	824	1	689	1	689
+UCEC_417CDB67_1DB1_4399_8591_C4600D65C14C_X026_S05	TCGA-B5-A11Y	ucec	59	united states	-21860	NA	560	female	NA	NA	NA	NA	NA	NA	tumor free	NA	NA	NA	endometrial	alive	NA	0	560	0	560	0	560	0	560
+UCEC_4AC67ED1_07F8_4A27_97D3_7B8D693479AA_X024_S07	TCGA-BG-A0RY	ucec	68	NA	-24952	NA	469	female	NA	NA	NA	NA	NA	NA	tumor free	NA	r0	NA	endometrial	alive	NA	0	469	0	469	0	469	0	469
+UCEC_64E4DFBF_7859_4FE4_AC05_E6B4995C868C_X036_S05	TCGA-BG-A0MS	ucec	53	NA	-19547	NA	1882	female	NA	NA	NA	NA	NA	NA	tumor free	NA	r0	NA	endometrial	alive	NA	0	1882	0	1882	0	1882	0	1882
+UCEC_6732BA4A_065A_4EF6_81E1_6DB5CAD70C97_X042_S09	TCGA-AP-A051	ucec	69	NA	-25269	NA	3948	female	NA	NA	NA	NA	NA	NA	tumor free	NA	r0	NA	endometrial	alive	NA	0	3948	0	3948	0	3948	0	3948
+UCEC_939BD27B_C1F6_4C55_949E_511A1D916E28_X040_S04	TCGA-B5-A0K9	ucec	88	united states	-32289	409	NA	female	NA	NA	NA	NA	NA	NA	tumor free	NA	NA	NA	endometrial	deceased	NA	1	409	0	409	0	409	0	409
+UCEC_9D108B12_D50E_4280_AA1A_219BF0E1856D_X031_S01	TCGA-B5-A0JT	ucec	63	united states	-23041	NA	1682	female	NA	NA	NA	NA	NA	NA	tumor free	NA	NA	NA	endometrial	alive	NA	0	1682	0	1682	0	1682	0	1682
+UCEC_BAD10669_0C6A_4B48_94B3_CAB6C3799360_X029_S09	TCGA-BK-A13B	ucec	58	NA	-21493	NA	966	female	NA	NA	NA	NA	NA	NA	tumor free	NA	NA	NA	endometrial	alive	NA	0	966	0	966	1	760	1	760
+UCEC_BDFE8123_081E_49AF_930B_2371D8DEC261_X030_S01	TCGA-BG-A0M8	ucec	50	NA	-18308	NA	2020	female	NA	NA	NA	NA	NA	NA	tumor free	NA	r0	NA	endometrial	alive	NA	0	2020	0	2020	0	2020	0	2020
+UCEC_C335297F_2D63_4973_9182_FA18C28E001E_X037_S04	TCGA-BG-A0MK	ucec	52	united states	-19034	1317	NA	female	NA	NA	NA	NA	NA	NA	with tumor	NA	r0	NA	endometrial	deceased	NA	1	1317	1	1317	NA	NA	1	1317
+UCEC_D820B024_6B3B_4B5B_866E_F9A8139C270B_X039_S09	TCGA-BG-A0MH	ucec	61	NA	-22475	NA	1930	female	NA	NA	NA	NA	NA	NA	tumor free	NA	NA	NA	endometrial	alive	NA	0	1930	0	1930	0	1930	0	1930
