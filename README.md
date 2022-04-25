@@ -17,4 +17,4 @@ After this step, please select the peaks with top correlations by hand.
 ```
 Rscript analysis.R
 ```
-Because analysis.R will load data from MEAN.txt (your could replace this file with peaks selected in previous step), please decompress the file MEAN.tar.gz which contains chosen peaks before this step.
+Because analysis.R will load data from MEAN.txt (your could replace this file with data of peaks selected in previous step), please decompress the file MEAN.tar.gz which contains chosen peaks before this step.
