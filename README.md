@@ -5,7 +5,7 @@ A method to select ATAC peaks which may involve the most cell activities through
 ```
 Rscript peak.cor.R TCGA-ATAC_PanCan_Log2Norm_Counts.example.txt > cor.txt
 ```
-This step will take very long time, you can also specify range of rows needed to be calculated in each session and start servral sessions to reduce the time cost. For example:
+This step will take very long time, you can also specify the range of rows needed to be calculated in each session and start several sessions to reduce total time cost. For example:
 ```
 Rscript peak.cor.R TCGA-ATAC_PanCan_Log2Norm_Counts.example.txt 1 100 > cor.1-100.txt
 Rscript peak.cor.R TCGA-ATAC_PanCan_Log2Norm_Counts.example.txt 101 200 > cor.101-200.txt
