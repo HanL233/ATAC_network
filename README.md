@@ -1,7 +1,7 @@
 # ATAC_network
 A method to select ATAC peaks which may involve the most cell activities through a correlation network, and check whether those chosen peaks associate with clinical characters.
 
-** 1) Select ATAC peak nodes with the most connections in a correlation network **
+**1) Select ATAC peak nodes with the most connections in a correlation network**
 ```
 Rscript peak.cor.R TCGA-ATAC_PanCan_Log2Norm_Counts.example.txt > cor.txt
 ```
@@ -12,7 +12,7 @@ Rscript peak.cor.R TCGA-ATAC_PanCan_Log2Norm_Counts.example.txt 101 200 > cor.10
 ```
 After this step, please select the peaks with top correlations by hand.
 
-** 2) perform principal component analysis on those chosen peaks and check whether some principal component associate with clinical characters, e.g., smoking. **
+**2) perform principal component analysis on those chosen peaks and check whether some principal component associate with clinical characters, e.g., smoking.**
 
 ```
 Rscript analysis.R
